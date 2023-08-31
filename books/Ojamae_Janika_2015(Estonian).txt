@@ -1,0 +1,1896 @@
+                   TARTU ÜLIKOOL
+               FILOSOOFIATEADUSKOND
+        EESTI JA ÜLDKEELETEADUSE INSTITUUT
+                EESTI KEELE OSAKOND
+
+
+
+
+                    Janika Ojamäe
+
+
+
+MURDEKASUTUS A. H. TAMMSAARE ROMAANISARJA
+    „TÕDE JA ÕIGUS” V OSA TEGELASKÕNES
+
+
+                    Bakalaureusetöö
+
+
+
+
+              Juhendaja lektor Eva Velsker
+
+
+
+
+                      Tartu 2015
+Sisukord
+
+Sissejuhatus ....................................................................................................................... 4
+
+1. Murre ja kõneldud keel kirjanduses .............................................................................. 6
+
+   1.1. Murre kirjanduses ................................................................................................... 6
+
+   1.2. Allkeeled eesti kirjanduses ..................................................................................... 8
+
+   1.3. Kõneldud keele illusiooni loomine....................................................................... 11
+
+   1.4. Sotsiolingvistiline varieeruvuse analüüs .............................................................. 14
+
+2. A. H. Tammsaare murdetaust...................................................................................... 15
+
+   2.1. Keskmurde jooned ................................................................................................ 16
+
+   2.2. Uurimused Tammsaare keele kohta ..................................................................... 18
+
+3. Murdekasutus A. H. Tammsaare romaanisarja „Tõde ja õigus” V osas ..................... 20
+
+   3.1. Peamised erijooned ............................................................................................... 20
+
+      3.1.1. Fonoloogilised jooned.................................................................................... 20
+
+      3.1.2. Morfoloogilised jooned.................................................................................. 23
+
+      3.1.3. Sõnavara......................................................................................................... 24
+
+      3.1.4. Argikeelsused................................................................................................. 29
+
+   3.2. Varieerumine ........................................................................................................ 30
+
+4. Murdekasutuse eesmärgid A. H. Tammsaare romaanisarja „Tõde ja õigus” V osas .. 32
+
+   4.1. Murre kui vahend realistlikkuse loomiseks .......................................................... 32
+
+   4.2. Murre kui vahend vastanduste loomiseks ............................................................ 34
+
+      4.2.1. Haritud ja harimata tegelaste vastandamine .................................................. 34
+
+      4.2.2. Mäe ja Oru rahva vastandamine .................................................................... 36
+
+      4.2.3. Noorte ja vanade vastandamine ..................................................................... 37
+
+   4.3. Murre kui vahend päritolu markeerimiseks .......................................................... 38
+
+
+
+                                                                                                                                    2
+5. Romaanisarja „Tõde ja õigus” I ja V osa analüüsitulemuste võrdlus ........................ 40
+
+   5.1. Fonoloogilised jooned .......................................................................................... 40
+
+   5.2. Morfoloogilised jooned ........................................................................................ 41
+
+   5.3. Sõnavara ............................................................................................................... 42
+
+   5.4. Murdekasutuse eesmärgid .................................................................................... 43
+
+Kokkuvõte ....................................................................................................................... 45
+
+Kirjandus ......................................................................................................................... 48
+
+Dialectal use in the character speech of A. H. Tammsaare᾽s „Tõde ja õigus” part V.
+Summary ......................................................................................................................... 51
+
+
+
+
+                                                                                                                                    3
+Sissejuhatus
+
+Bakalaureusetöö eesmärgiks on uurida Anton Hansen Tammsaare romaanisarja „Tõde
+ja õigus” V osa tegelaskõnet, seal esinevat murdekasutust ja välja tuua teoses
+kasutatavale murdele omased jooned ning neid analüüsida. Ühtlasi soovitakse vastust
+leida järgmistele küsimustele:
+
+
+1) Mis on murdekasutuse eesmärgid?
+2) Mil viisil iseloomustab murdekasutus murdes kõnelevat tegelast?
+3) Kuidas antakse ilukirjanduslikes teostes edasi kõnet ja kõnele iseloomulikke jooni?
+
+
+2013. aastal kaitses Maria Mandri bakalaureusetöö teemal „Murdekasutus A. H.
+Tammsaare romaanisarja „Tõde ja õigus” I osa tegelaskõnes”. Käesoleva töö autor
+soovib oma töös võrrelda saadud tulemusi ka Maria Mandri töö tulemustega.
+
+
+Käesolevas töös tuginetakse mitmetele teostele ja artiklitele, milles on käsitletud
+murdekasutust ja kõne edasi andmist ilukirjanduslikes teostes, samuti suulist kõnet
+puudutavatele artiklitele. Murdejoonte kirjeldamisel on tuginetud Pajusalu jt kirjutatud
+raamatule „Eesti murded ja kohanimed” (2009) ning Musta ja Univere teosele
+„Põhjaeesti keskmurre. Häälikulisi ja morfoloogilisi peajooni” (2002).
+
+
+Uurimus põhineb „Kogutud teoste” sarjas 1983. aastal ilmunud tekstikriitilisel „Tõe ja
+õiguse” viiendal osal, mille alustekstiks on romaani teine trükk aastast 1936. 1983.
+aasta väljaande koostamisel on abiks olnud ka autograaf ehk autori enda käega
+kirjutatud käsikiri (EKSS 2009) ning esmatrükk. Teine trükk on võrreldes esimesega
+lühendatud ja mõningaid lauseid ning sõnu on muudetud. Teise trüki käsikiri pole
+säilinud ning ei olnud võimalik eristada Tammsaare enda ja korrektori poolt tehtud
+muudatusi. Seetõttu on tekstikriitilises väljaandes mitmed vormid taastatud autograafi
+järgi. 1983. aasta väljaanne sai uurimisobjektiks valitud seetõttu, et selles väljendub A.
+H. Tammsaare viimane tahe. (Tammsaare 1983: 444, 462)
+
+
+
+
+                                                                                         4
+Töö     koosneb    viiest   põhipeatükist.   Esimene    teoreetiline    peatükk    keskendub
+murdekasutuse eesmärkide väljaselgitamisele ilukirjanduslikes teostes. Seal tuuakse
+välja tegelaskõnes kasutatavad levinumad suulise keele jooned ning antakse ülevaade
+keelekasutuse muutustest eesti kirjanduses. Kuna töös tuginetakse sotsiolingvistilisele
+varieeruvuse analüüsile, antakse esimeses peatükis lühike ülevaade ka sellest
+uurimismeetodist.
+
+
+Teine    peatükk    keskendub     Tammsaare     päritolule   ning      kirjaniku   kodumurde
+iseloomulikemate joonte kirjeldamisele.
+
+
+Kolmandas peatükis kirjeldatakse „Tõe ja õiguse” V osa tegelaskõnes esinevaid
+murdelisi erijooni. Töö autor on analüüsimiseks välja kirjutanud kõik normikeelest
+kõrvale kaldunud vormid, grupeerinud need tabelisse tegelastest lähtuvalt vastavalt
+sellele, kas tegu on fonoloogilise, morfoloogilise või sõnavaralise erijoonega. Välja on
+toodud ka mõned teoses esinenud argikeelsused. Töösse on lisatud tabelid teoses enim
+esinenud fonoloogilistest ja morfoloogilistest erijoontest. Töös on ka osutatud,
+missugusele murdealale analüüsitavad erijooned iseloomulikud on. Sõnavarajoonte
+levikuala määramisel on kasutatud peamiselt „Väikest murdesõnastikku” (VMS).
+
+
+Neljandas peatükis vaadeldakse, missugused on olnud „Tõe ja õiguse” V osa olulisemad
+murdekasutuseesmärgid ning kuidas tulevad esile tegelastevahelised vastandused
+lähtuvalt sellest, kui palju esineb kellegi kõnes murdelisi erijooni.
+
+
+Viies peatükk keskendub käesolevas töös saadud tulemuste võrdlusele Maria Mandri
+bakalaureusetöö tulemustega. Võrreldakse eraldi nii fonoloogilisi kui ka morfoloogilisi
+erijooni, aga ka sõnavara ning murdekasutuseesmärke.
+
+
+
+
+                                                                                           5
+1. Murre ja kõneldud keel kirjanduses
+
+Igal keelel on olemas allkeeled ning neil on kõigil ühiskonnas erinev positsioon. Keele
+ideaaliks peetakse kirjakeelt, mis on ühtlasi kõrgeim allkeel. Kirjakeelt kasutatakse
+mitmesugustes tekstides, aga ka avalikes situatsioonides, kus tuleks argikeelseid jooni
+vältida. Sotsiolingvistikas moodustavad ühe allkeelte rühma dialektid ehk murded, mis
+paiknevad kirjakeelest madalamal positsioonil. (Hennoste 2000b: 69–70) „Dialekt
+tähistab keele varianti, mis erineb grammatiliselt, fonoloogiliselt ja leksikaalselt teistest
+variantidest ning on seotud geograafilise koha ja/või kindla sotsiaalse grupiga”
+(Pajusalu jt 2009: 19). Murdeid saab jagada kaheks: kohamurdeks ehk regionaalseks
+dialektiks ja sotsiaalmurdeks ehk sotsiolektiks (Pajusalu jt 2009: 19). Kohamurre on
+inimesega seotud territoriaalselt ja kõnelejad tunnevad end ühtse rühmana.
+Sotsiaalmurre on seotud inimese sotsiaalse päritolu ja staatusega, kuid oluline on ka see,
+missuguse haridusega, mis soost ja vanusest kõneleja on. Ka sotsiaalmurde kõnelejad
+tajuvad end rühmana. (Hennoste 2000d: 10–12).
+
+
+Murretest veelgi madalamal positsioonil paiknevad kõnekeel/argikeel ja släng.
+(Hennoste 2000b: 70) Hennoste sõnul on kõnekeelt ja argikeelt peetud sünonüümseteks
+mõisteteks ning neid kasutatakse paralleelselt (Hennoste 2000d: 31). Koos slängiga
+paiknevad nad veelgi madalamal positsioonil, olles pigem negatiivse varjundiga. Neis
+nähakse kirjakeele lohakamat varianti (Hennoste 2000b: 70). Siiski tänapäeval on
+murrete prestiiž võrreldes varasemaga tõusnud ning inimesed väärtustavad rohkem oma
+päritolu ja kodumurret. Ka kirjanduses on hakatud allkeeli enam hindama ning näiteks
+lõunaeestikeelne proosa ja luule muutub järjest tähtsamaks (Hennoste 2000b: 75;
+Pajusalu jt 2009: 121).
+
+
+
+1.1. Murre kirjanduses
+
+Kirjandusteaduses peetakse kirjandusliku murde uurimises üheks autoriteetseks
+lähtetekstiks Sumner Ivesi kirjutatud artiklit „A Theory of Literary Dialect” (Ives 1971).
+Ivesi (1971: 150, 152–153) sõnul kõnelevad kõik inimesed mingit murret, sest pole
+
+
+                                                                                           6
+ühtki keelt, mis esineks ehedal kujul ja millest murded puuduksid. Murre esindab ühe
+koha keelekasutusele omaseid jooni, mis eraldi võivad esineda ka mingis teises paigas,
+aga mitte täpselt samasuguses kombinatsioonis. Arvatakse, et ühes kindlas piirkonnas
+elavate inimeste kõnelemisviis on samasugune, kuid tegelikult see nii pole. Lingvistikas
+on teada, et iga inimene kõneleb siiski omamoodi – kaks ütlust pole kunagi täpselt
+samasugused. On gruppe, kellel on välja kujunenud oma kõnelemisviis, kuid ka seal ei
+pruugi kõik neid tavasid alati järgida.
+
+
+Kirjandusliku murde kasutamine on võimalus kirjalikus tekstis edasi anda suulist kõnet,
+mis on piiratud kas sotsiaalselt, regionaalselt või mõlemal viisil. Paljud kirjanikud
+kasutavad kirjanduslikku murret, et edasi realistlikkust ning näidata, kuidas inimesed
+päriselt kõnelevad. (Ives 1971: 146) Hennoste (2000b: 71) sõnul on murde ja argikeele
+kasutamise peamisi eesmärke näidata tegelaste sotsiaalset positsiooni, siis alles tuleb
+päritolu markeerimine. Murdekasutus ei näita tavaliselt tegelast positiivses valguses,
+vaid toob esile pigem madalat haridustaset.
+
+
+Kui autor kasutab tegelaskõnes murret, siis on ta kokku kogunud mitmeid tunnuseid
+inimestelt, keda ta on jälginud seda murret kõnelevana. Ta on välja valinud konkreetse
+murde tüüpilisemad tunnused, mis sobiksid ühtlasi ka sellele tegelasele, keda autor oma
+teoses kujutab. (Ives 1971: 153)
+
+
+Kirjanduslik murre annab autorile võimaluse tegelased silmapaistvaks teha, näiteks
+mõne groteskse, humoorika või sotsiaalselt madalama klassi tegelaskujude puhul on
+sageli kasutatud liialdamist grammatiliste tunnustega, kohalike terminite või
+ebatavaliste sõnamoodustustega. Kirjanduslik murre võib sisaldada ka tegelikkusest
+rohkem sotsiaalselt pahakspandavat, vanaaegset või kohalikku hääldust. Kirjanik peaks
+mõtlema siiski ka lugeja peale ning mitte hõlmama kõike. Kui murre erineb liiga palju
+lugejale tuttavast keelevariandist, võib tekkida raskusi teksti mõistmisel. (Ives 1971:
+154–155)
+
+
+
+
+                                                                                      7
+Kirjandusliku murde loojal on võimalus ühe võttena kasutada visuaalmurret (ingl eye
+dialect). Selle puhul kirjutatakse tuttavad sõnad vastavalt hääldusele, kuigi foneetiliselt
+võib neil tähendus puududa. Kuna inglise keele hääldus erineb palju kirjapildist, saab
+kirjanik lugejani tuua häälduspäraselt kirjapandud sõnu, näiteks is asemel iz, dear
+asemel dere. Seesugune võte on mõeldud lugeja silmade, mitte kõrvade jaoks ning
+annab ka märku, et kõnel on teistsugune värving kui harjumuspärasel vestlusel. (Krapp
+1926: 523) Eesti keeles aga langevad nii kirjapilt kui hääldus enamasti kokku, kuid
+näiteks h hääldamata jätmise sõna algusest saab siiski visuaalmurdenäitena välja tuua ja
+seda on mitmed autorid oma teostes ka kasutanud, et näidata tegelase vähest haridust.
+(Mandri 2013: 12).
+
+
+
+1.2. Allkeeled eesti kirjanduses
+
+Muutusi eesti kirjanduse keeles, sh suhtumist allkeeltesse on kirjeldanud Tiit Hennoste.
+Ta toob välja, et keelekaanon sai paika pandud 20. sajandi algul ning see kujunes välja
+1930. aastatel. Nõukogude aja lõpuni püsis kaanon samasugusena. (Hennoste 2000b:
+69)
+
+
+Hennoste (2000b: 72–73) sõnul on eesti kirjanduskeelele omane kirjakeelekesksus nii
+nagu Euroopa kultuuris üldse. Allkeeli kasutatakse vähe ja sedagi tegelaste täpsemaks
+iseloomustamiseks. Kirjakeelekesksus oli levinud ajal, mil seisuslikud ühiskonnad
+hakkasid lagunema ning keel hakkas liitma rahvust ja ühiskonda. Iseloomulik oli see ka
+totalitaarsetes ja autoritaarsetes ühiskondades, aga ka koloniaalmaades. Eestigi on
+seesugusest valitsemisviisist osa saanud – 1930. aastatel jõudis Eestisse autoritaarne,
+hiljem totalitaarne valitsemisviis ning Eesti pole puutumata jäänud ka koloniseerimisest.
+
+
+Kirjakeelekesksust võib eeskätt näha realistlikes ja romantistlikes teostes. Modernism
+tõi kaasa kirjakeelekesksuse eitamise ning mitmesugused kõrvalekalded. Sellele suunale
+on omane erinevate stiilide segunemine, keelemängud, keelelise originaalsuse
+väärtustamine. Kirjandusse jõuavad mitmesugused madalkeeled (släng, roppused,
+
+
+
+                                                                                         8
+argikeel). Modernistlikud tekstid on tihti fragmentaarsed, nagu seda on ka spontaanne
+kõne. (Hennoste 2000b: 73–74)
+
+
+Postmodernistlikes tekstides võib kohata rohkelt murdeid, erinevaid allkeeli sama teksti
+piires. Sellele suunale on omane hierarhiate eitamine. Kui modernismis oli oluline
+originaalsus, siis postmodernismis väärtustatakse jäljendamist ja kopeerimist. (Hennoste
+2000b: 74)
+
+
+Postkolonialismis saab tähtsaks taas suulisus ning seda hakatakse kasutama üha enam
+ka kirjalikes tekstides. Väärtustatakse koha ja keele suhteid, seega ka selles
+kirjandussuunas tõusevad esile murded. 1990. aastatel kujunes keelesituatsioon, kus
+allkeeli hakati taas hindama ning kirjakeelekeskne olukord hakkas taanduma. Avalikes
+situatsioonides oli kuulda slängi ning suulist spontaanset keelt. (Hennoste 2000b: 75)
+
+
+Oluline keeleuuendus oli see, et argikeele kasutamine hakkas eristama noori inimesi,
+mitte ei olnud märk harimatusest või maalt pärit inimesest. Hennoste märgib, et
+proosatekstides võis keeleuuendusi näha siiski eelkõige dialoogides, mitte aga
+autoritekstis. Argikeelt – eelkõige madalkeelset sõnavara – kasutatakse kirjanduses üha
+enam, eriti proosas ja punkluules. Selle peamine funktsioon on noorte inimeste
+tähistamine. (Hennoste 2000b: 78)
+
+
+Murde kui ühe allkeele kasutamise perioode eesti kirjanduses on välja toodud kolm.
+Esimene periood hõlmab aega enne 1920. aastaid. Kodumurde jooni võib leida mõne
+varasema aja eesti kirjanike loomingus, näiteks Kreutzwaldil, Jannsenil, Koidulal ja ka
+Jakobsonil. Kuigi 1890. aastatel kirjakeel ühtlustus, siis murret võis tekstides endiselt
+näha. Uue sajandi alguses avaldatud teostes on aga rohkem ühiskeelt kasutatud, ent
+mõningad kodumurde jooned on säilinud neiski. Keskmurret võib leida näiteks Vilde ja
+Tammsaare loomingus, Kitzberg on kasutanud Mulgi ja Juhan Liiv idamurret. Oskar
+Luts on samuti silma paistnud idamurde kasutamisega, ent ta on loonud ka
+pseudomurde, milles on kõnelenud üks tema följetonitegelasi Karl Martin Uhhuu.
+(Pajusalu jt 2009: 120–121)
+
+
+                                                                                         9
+Järgmine periood hakkab 1920. aastate keskel, mil saab alguse normkirjakeele ajastu
+ning murdekasutus väheneb oluliselt. See periood kestab 1990. aastateni. Üle
+vaadatakse ka varasematel aastatel kirjutatud tekstid – uusväljaannetes jäetakse murre
+alles vaid dialoogidesse, kus murdekasutus on vahend tegelaste iseloomustamiseks.
+Näiteks Oru Pearu kõnesse jäeti alles keskmurdelised jooned (nt nuabrimees). (Pajusalu
+jt 2009: 120)
+
+
+Teise perioodi proosateostele on omane, et autoritekstid on enamasti kirjakeelsed. Ent
+on autoreid, kes on kirjutanud kogu teksti murdes, näiteks saarte murdes on kirjutanud
+Juhan Smuul ja Jüri Tuulik, kes on pannud mõne murdealalt pärit tegelase monoloogi
+pidama. Tavalisem on siiski murret kasutada vaid tegelaskõnes. Enamasti on kasutatud
+lõunaeesti murdeid, eriti Võru murret – Jaan Lattiku teostest võib leida läänevõru jooni,
+Raimond Kolgil Hargla Mõniste murrakut, Artur Adsonil ja Kauksi Üllel keskvõru
+keelt. Harvematel juhtudel leidub proosas ka mõnd muud lõunaeesti murret, näiteks
+Viivi Luige teoses „Seitsmes rahukevad” (1975) võib maainimeste kõnes märgata
+Mulgi murret, Otepää murret on aga kasutanud Mats Traat oma jutustuses „Kohvioad”
+(1974), samuti romaanis „Puud olid, puud olid hellad velled” (1979) ja romaanisarjas
+„Minge üles mägedele” (alates 1987). (Pajusalu jt 2009: 120)
+
+
+Murdekasutuse eesmärkidest Traadi „Minge üles mägedele” sarja kohta on kirjutanud
+ka Mart Velsker (2012: 261–264) artiklis „Palanumäe lugu ja keele lugu”. Velskri järgi
+hakati juba möödunud sajandil Mats Traadi sarja „Minge üles mägedele” võrdlema A.
+H. Tammsaare „Tõe ja õigusega”. Nii nagu Hennostegi on kirjutanud, toob Velskergi
+välja, et üks levinumaid viise on kasutada murrakuid ja sotsiolekte selleks, et edasi anda
+tegelaste harimatust, nende veidrusi. Ühtlasi lisab Velsker, et murdekasutus võib anda
+tegelastele topeltidentiteedi, näiteks Traadi sarjas andis lõunaeesti keele kasutamine
+võimaluse eristuda ülejäänud eestlastest oma keele poolest, kuid samas säilitati
+eestimeelsus.
+
+
+
+
+                                                                                       10
+Uus periood saab eesti proosas alguse 1980. aastatel, mil kirjandusse ilmub märgatavalt
+rohkem argikeelsust. Murdekasutus väheneb – see kas kaob dialoogidest või saab teksti
+põhikeeleks nagu see on võru proosas. Võru proosas tõusevad sel perioodil esile Madis
+Kõivu ja Kauksi Ülle teosed. (Pajusalu jt 2009: 121)
+
+
+
+1.3. Kõneldud keele illusiooni loomine
+
+Kirjutatud ja kõneldud keele vahele pole kuigi lihtne piiri tõmmata. Kõneldud keel on
+suuline keelekasutus – kõik see, mida kõneldakse, näiteks murre, släng, kuid ka
+kirjakeelesarnane kõneldud keel. Kirjutatud keeleks võib pidada kõike, mis on kirja
+pandud, näiteks juriidilised tekstid, internetivestlused jms. Selleks, et ilukirjanduses
+olev tegelaskõne tunduks lugejale reaalne, on autoril võimalik tuua kirjalikku teksti
+mitmeid suulisele keelekasutusele omaseid tunnuseid, et luua illusiooni kõneldud
+keelest. (Tiittula, Nuolijärvi 2013: 11, 14)
+
+Hennoste (2000a: 49) toob välja, et eesti keele suulises kõnes on küllaltki vähe selliseid
+sõnu, mille morfoloogia erineb kirjakeele sõnadest, ent ühe näitena saab tuua nud-
+partitsiibi nd-vormi. Kõneleja kasutab mõlemaid vorme paralleelselt kindlatel
+tingimustel. (Hennoste 2000a: 49) Hennoste sõnul kasutatakse tavaliselt nud-vormi siis,
+kui sõna lõpule eelneb helitu konsonant, kui aga eelneb heliline konsonant või vokaal,
+siis kasutatakse nd-vormi. nud-partitsiibi kasutust mõjutab veel ka näiteks rõhk – kui
+partitsiip jääb rõhulisse asendisse, on enam levinud pikem vorm, kui aga rõhutusse, siis
+lühem. (Hennoste 2000c: 1573)
+
+
+Illusiooni kõneldud keelest on kõige lihtsam luua kasutades häälikulisi jooni,
+argikeelseid sõnu ja murdesõnu, kuid ettekujutust kõnest saab edasi anda ka
+lauseehituse ja fraseoloogiaga. Kõnet iseloomustavad häälikulised jooned on näiteks
+assimilatsioonid, vormilised eripärad, näiteks ühildumatud verbivormid. Nende abil on
+võimalik näidata kõneleja murdelist tausta, vanust ja positsiooni ühiskonnas. Andmaks
+edasi kõnele iseloomulikku, saab kirjanik oma teksti lisada ka mitteverbaalseid
+tegevusi,   näiteks   naeru,   kõne   venitust,   pause,   katkestamisi,   parandusi.   Ka
+
+
+                                                                                        11
+kirjavahemärkidel ja tüpograafial on oma tähtsus. Suurtähtede ja kursiiviga märgitakse
+näiteks rõhutatud kõnet või hääle tugevust. Sageli võib silma jääda nende tunnustega
+liialdamist – sel juhul kasutatakse tegelaskõnes teatud tunnuseid tihedamini, kui seda
+tehakse tegelikkuses. (Tiittula, Nuolijärvi 2013: 37, 43–46) Ilukirjanduslikes
+dialoogides võib süntaksi tasandil kõnele omaseid jooni näha lausete lühiduses ja
+elliptilisuses. Tavaliselt puuduvad kirjutatud tekstist spontaansele kõnele iseloomulikud
+kordused, kahtlused, parandused ja sõnaotsingud, kui just autor ei soovi neid kindlal
+eesmärgil sisse jätta. (Tiittula, Nuolijärvi 2013: 53, 64)
+
+
+Kõnele iseloomulike joonte kasutamisel kirjalikus tekstis võib olla mitmeid eesmärke,
+näiteks antakse nendega edasi emotsioone, väljendatakse mõistmisraskusi, tuuakse esile
+mõne konkreetse inimtüübi omadused. Hennoste järgi on eesti kirjanduses tavaliselt
+suulise võtte kasutaja maalt pärit meesterahvast, kes on vähese haridusega ning rumal.
+(Hennoste 2004: 40; Hennoste 2000b: 71) Sellise inimtüübi loomiseks saab kasutada
+mitmeid keelejooni, näiteks a-mitmust (nt püksa) ja a-lõpulisi määrsõnu (nt eila), si-
+osastavat (nt metsasi), h puudumist sõna algusest (obune), pikkade vokaalide
+asendamist diftongidega (nt nüid), u-d võõrsõnade järgsilpides (nt autu), nd-partitsiipe
+(nt teind). Need tunnused on muutumas argijoonteks, kuigi algselt iseloomustasid need
+Tallinnamaa kõnepruuki. (Hennoste 2000b: 71)
+
+
+Igal inimesel on oma sõnavara ja eri keelevariante kasutatakse vastavalt olukorrale.
+Sama kehtib ka ilukirjanduslike tegelaste puhul. Nad on usutavad, kui nad kasutavad
+lisaks argikeelsustele ka varieeruvust, teevad erinevates olukordades erinevaid valikuid.
+Kirjanik saab illusiooni tekitada, valides mitmesuguste argikeele variantide hulgast
+sobivaimad. Nii on võimalik eristada tegelasi nende päritolu, vanuse, sotsiaalse
+positsiooni ja ka ameti järgi. Murde kasutamine on samuti üks viis eristada inimesi,
+ühtlasi saab sellega edasi anda huumorit ning see annab aimu teoses kujutatud aja
+kõnelemisviisidest. (Tiittula, Nuolijärvi 2013: 18–19) Kuid reaalsustaotlusega ei saa
+liiale minna, sest siis ei tundu kõne enam reaalne (Koivisto, Nykänen 2013: 45).
+
+
+
+
+                                                                                      12
+Ilukirjanduse fiktiivses kõnes kasutatava keelega loob autor illusiooni autentsest kõnest,
+et näidata tegelaskujude tõepärasust. Seal kasutatakse tegelikule kõnele iseloomulikke
+jooni, ent siiski ei kopeerita seda täielikult. (Tiittula, Nuolijärvi 2013: 11). Ka kõige
+realistlikumana tunduv repliik on stiliseeritud (Koivisto, Nykänen 2013: 63). Kirjanik
+on kunstnik, mitte lingvist. Tema eesmärk on kirjanduslik – seetõttu pole suurem osa
+kirjanduslike murrete näiteid täiuslikud. Iga autor otsustab, kui palju iseärasusi ta soovib
+tegelaskõnesse lisada. (Ives 1971: 147)
+
+
+Eesti kirjanduses on teistest ilukirjanduslikest autoritest enam oma loomingus argijooni
+kasutanud Oskar Luts (Hennoste 2000b: 72). Lutsu keelekasutuses on nähtud seost
+vestluse, pajatamisega (Hennoste 2012: 1626). Hennoste (2012: 1627) järgi on Luts
+kasutanud oma teoses „Kevade” ka mitmeid murdelisi erijooni – osa neist on läänelised,
+mõni on idamurdeline, ent on ka Lõuna-Eesti jooni. Lutsu teoses on eripäraseid
+keelejooni, mille ülesandeks on tavaliselt märkida tegelaste madalat sotsiaalset staatust.
+Need jooned märgivad suulist keelekasutust, vastandudes avalikule suulisele suhtlusele.
+Suulist argivestlust iseloomustavad veel ka mitmesugused vande- ja sõimusõnad
+(juudaline; mis sa jõlad). Luts üritab lugejale edasi anda illusiooni kõneldud keelest,
+matkides suulise kõne intonatsiooni ning rütmi.
+
+
+Suulisele kõnele on iseloomulik sõnade otsimine ja juba välja öeldu ümbertegemine.
+Näiteks Luts on oma teoses otsimise vahendina kasutanud kordusi ja pause.
+Ümbertegemisel kasutab sõnade asendamist. (Hennoste 2012: 1629) Hennoste järgi ei
+kasuta Luts suulise keele jooni, näitamaks lugejale, et tegu on harimata tegelasega, vaid
+Luts soovib näidata nende tegelaste loomulikku kõnelemisviisi ja muudab nad sel viisil
+elavateks inimesteks. Nii on lugejal võimalik tunda, et viibib kuulajana mõne tegelase
+kõrval. (Hennoste 2012: 1630–1631)
+
+
+
+
+                                                                                         13
+1.4. Sotsiolingvistiline varieeruvuse analüüs
+
+Sotsiolingvistika ajalugu ulatub 1960. aastatesse. Sotsiolingvistika on aastate jooksul
+hargnenud mitmeks eri suunaks, kuid kõiki neid ühendab huvi uurida keele ja sotsiaalse
+struktuuri suhteid. (Keskimaa 2013: 496) Põhirõhk on ühiskonnakesksel lähenemisel
+(Hennoste 2000d: 10).
+
+
+Sotsiolingvistilises uurimises pööratakse tähelepanu sotsiaalsetele markeritele, mis
+näitavad, missugusesse ühiskonnarühma kuulutakse. Sotsiaalsed markerid väljendavad
+kõneleja sotsiaalset identiteeti. (Pajusalu jt 2009: 33)
+
+
+Sotsiolingvistika   keskendub      keelekasutuse    ja     ühiskonna   suhetele.   Uuritakse
+„korrelatsioone inimese ühiskonnaga seotud tunnuste (klass, vanus, sugu jms) ja tema
+keelekasutuse vahel” (Hennoste 2002: 230). Sotsiolingvistika saab jagada kaheks osaks,
+kus ühelt poolt ollakse arvamusel, et keel varieerub ja see on seotud kõnelejate
+sotsiaalsete omaduste ning konkreetsete keelekasutamise situatsioonidega. Teine pool
+aga keskendub keele ja ühiskonna vahelistele suhetele. (Hennoste 2002: 217–218, 230)
+
+
+Varieerumist on võimalik uurida kvantitatiivselt – uurides eelkõige keelekasutajate ja
+keele suhteid – või kvalitatiivselt, kus vaatluse all on keelekasutaja ja konkreetse
+situatsiooni suhted (Hennoste 2002: 217–218). William Labov on oma uurimustega
+kvantitatiivses sotsiolingvistikas üks teerajajaid. Inimese sotsiaalsesse klassi kuulumine
+määrab ära selle, missugust keelendi varianti ta kasutab (eesti keeles näiteks
+hobune/obune). (Hennoste 2002: 230)
+
+
+Nagu juba eespool selgus, määrab ka kirjandusteoste tegelaste usutavuse keeleline
+varieeruvus ning seetõttu pööratakse sellele tegelaskõne uurimisel tähelepanu. Ka
+käesoleva töö autor tugineb oma töös sotsiolingvistilisele varieeruvuse analüüsile –
+murdejoonte analüüsil vaadeldakse ka tegelaste vanust, sotsiaalset positsiooni ja
+haridust ning üritatakse välja tuua tegelaste sotsiaalsete omaduste ja murdekasutuse
+vahelised seosed.
+
+
+                                                                                         14
+2. A. H. Tammsaare murdetaust
+
+A. H. Tammsaare ema Ann ja isa Peeter Hansen elasid Viljandimaal Suure-Jaani
+kihelkonnas, ent 1872. aastal asusid elama Järva-Madise kihelkonda Albu valda
+Tammsaare-Põhja tallu. 1878. aastal sündiski tulevane kirjanik Anton Hansen, kes
+aastate pärast otsustas võtta endale kodutalu järgi kirjanikunime Tammsaare. Perre
+sündis kokku 12 last, kuid neist kaks surid. (Teder 1977: 3, 5–6) Kooliteed alustas
+Anton Hansen kohalikus vallakoolis, kõigepealt õppis ta Albu vallas olevas Sääsküla
+vallakoolis, seejärel Ambla kihelkonnas paiknevas Prümli valla külakoolis. Hiljem
+suundus ta Väike-Maarjasse, kus jätkas õpinguid sealses kihelkonnakoolis. Anton
+Hansen soovis veelgi edasi õppida ja asus Tartusse Treffneri gümnaasiumisse ning sealt
+juba suundus ülikooli. (Tammer 1978: 23)
+
+
+Tammsaare on tõdenud, et on oma romaanis „Tõde ja õigus” mingil määral lähtunud
+omaenda elust ja sündmustest: „On õigus, et ma selles olen faktilist materjali kasutanud,
+kui ka mitte väga suurel määral. Maastik ja ümbrus on minu kodukohast, samuti
+meeleolud. Inimesi ei ole ühtki täielikult tegelikust elust kopeerinud, vaid olen algtüüpe
+transformeerinud.” (Tammer 1978: 19). Andrese tegelaskujuks on Tammsaare
+inspiratsiooni saanud oma isast Peeter Hansenist, Pearu puhul aga isa naabrimehest
+Jakob Sikenbergist (Teder 1977: 20). Kahe naabrimehe vahel Tammsaare-Põhja ja -
+Lõuna talus oli sageli piiritülisid, mis viisid kohtus protsessimisteni (Teder 1977: 18).
+
+
+Nende kahe mehe vihavaenu tõi Tammsaare ka oma teosesse „Tõde ja õigus” ning on
+näha, et Pearu ja Andres pole leppinud ka romaanisarja viimases osas. Võib oletada, et
+kui nii mitmeidki sündmusi ja inimesi kujutades on Tammsaare lähtunud enda elust, siis
+on ka tegelaskõne mõjutatud sellest, kuidas oli tavaks kõnelda tema kodukohas.
+
+
+
+
+                                                                                            15
+2.1. Keskmurde jooned
+
+Keskmurde piirkond on suurim Eesti murdeala, tänapäeval kõneldakse seda murret
+Harjumaal, Lääne- ja Ida-Virumaal, Järvamaal, Jõgevamaa lääneosas, Viljandimaa
+põhjaosas ning Äksis, mis asub Tartumaa põhjaosas (Pajusalu jt 2009: 142). Keskmurde
+nimetuse järgi on juba arusaadav, et murre paikneb mitme murde vahel ning kuna
+keskmurde levikuala on niivõrd suur, pole ühtset murret tekkinud ning murdekeele
+erinevused on piirkonniti suured. Ka naaberalad on saanud keskmurde mõjutusi. (Must,
+Univere 2002: 353; Pajusalu jt 2009: 142)
+
+
+Kuna eesti kirjakeele aluseks on olnud keskmurre, on neil kahel küllaltki palju sarnaseid
+jooni, kuid keskmurdel on ka mitmeid eristavaid tunnuseid. Üks kõige iseloomulikum
+keskmurde joon on pikkade madalate vokaalide diftongistumine (nt mua, heal)
+(Pajusalu jt 2009: 142; Must, Univere 2002: 127). Vanemas keeles oli ka konsonant v
+või j sõna alguses diftongi ees (nt vuasta, jeal~jaal). Kuigi see murdejoon on esindatud
+pea kõikjal keskmurdealal, puudub see siiski mõnes murde servaalas. Ent see tunnus on
+levinud ka väljaspool keskmurdeala, näiteks idamurdes, Ida-Saaremaal, Kihnus, Muhus
+ja ka Lääne-Eesti rannikul. (Pajusalu jt 2009: 142–143) Iseloomulik on a-lõpuliste
+partitiivi vormide moodustamine (nt püksa), peamiselt esineb see lääne- ja idamurdes,
+kuid on laialt levinud ka keskmurdes (Must, Univere 2002: 224, 227). nud-partitsiip
+esineb tavaliselt vokaalikaolisena (nt käind), aga ka tunnuseta (nt leid) (Must, Univere
+2002: 340–341).
+
+
+Eelkõige põhjapoolsele keskmurdealale on omane id-lõpuline mitmuse partitiivi
+moodustamine (nt ämbrid) (Must, Univere 2002: 216), samuti pikkade keskkõrgete
+vokaalide oo, öö, ee, õõ diftongistumine: suo, tüö, tie, võeras. See tunnus esineb ka
+kirderanniku murderühmas, Muhus ning Kihnus. Assimilatsioonid lj > ll, sj > ss on
+tavalised lisaks lõunaeesti ja läänemurdele ka keskmurdes (nt nällane, assad).
+Keskmurdele on iseloomulik alaleütlevas käändes –lle lõpp, kui sellele eelneb
+kaasrõhuline silp (nt paremalle). (Pajusalu jt 2009: 143) Nii nagu enamasti kõikides
+eesti murretes, pole ka keskmurdes h-d sõna alguses (Must, Univere 2002: 22).
+
+
+                                                                                      16
+Kõige lähedasem on keskmurre läänemurdega ning nende vahele ei saa ka järsku
+murdepiir tõmmata (Must, Univere 2002: 353). Sageli on isegi raske vahet teha, kas
+mõni rajamurrak on pigem kesk- või läänemurdeline (Must, Univere 2002: 358).
+Keskmurde läänepoolsemale osale on iseloomulikud tugevaastmelised inessiivivormid
+(nt nurkkas, jalgas), häälikuühendi mb assimileerumine mm-iks (nt lammad). Sarnaselt
+läänemurdega kasutatakse ka läänepoolsetel keskmurdealadel palju e-vokaali el-, er-
+noomenite käändevormides ja liidetes (nt köstre). (Pajusalu jt 2009: 144) Laialt on
+levinud läänelise levilaga muutus ja > jä (nt jänu). Pigem lääneline on ka muutus e > ä
+(nt änam) (Must, Univere 2002: 107, 111).
+
+
+Järva-Madise kihelkond, kust Tammsaare ise pärit oli, paikneb keskmurde tuumalal.
+Sellele piirkonnale on iseloomulik vaheldumatus ader-tüüpi sõnades – nii nominatiivi,
+genitiivi kui ka partitiivi vorm on adra. Ühtlasi on tavapärane ks-i püsimine järgsilpides
+(nt katuksed). Keskmurde tuumalale on iseloomulik ka lääneline j-i kadu madalate
+vokaalide vahelt (nt aama). (Pajusalu jt 2009: 147)
+
+
+Tammsaare vanemad olid pärit Põhja-Viljandimaalt ning selle piirkonna murrakutele on
+lisaks mitmetele läänelistele erijoontele iseloomulik veel ka näiteks klusiili puudumine
+sõna alguses helilise konsonandi eest (nt plaaster > laaster), v > u muutus sõna lõpus
+(nt rasu : rasva), aga ka tama-, dama-liiteliste verbide lühemate vormide kasutamine
+impersonaali imperfekti vormides tavapäraste di-lõpuliste kõrval (nt istutadi ~ istutti).
+(Must, Univere 2002: 358) Keskmurdes, sh Põhja-Viljandimaa murrakutes on mõnele
+sõnale iseloomulik assimilatsioon sk > ss (nt käskima : kässib) (Must, Univere 2002:
+46).
+
+
+
+
+                                                                                       17
+2.2. Uurimused Tammsaare keele kohta
+
+Uurimusi Tammsaare keele kohta on tehtud mitmeid – nii seminari- kui ka
+bakalaureusetöid. 1952. aastal on Kalju Prikk kirjutanud töö „Murdesõnad Anton
+Hansen-Tammsaare romaani Tõde ja õigus I köites”, Helle Pirrus on kirjutanud teemal
+„Koha- ja ajamäärus A.H. Tammsaare romaani „Tõde ja õigus” V osas“ (1979) ning
+Tiiu Kadajane teemal „Kohamääruse esinemine A. H. Tammsaare „Tõe ja õiguse” V
+osas” (1979). Ka Tammsaare lausehitust on mitmed uurinud, näiteks Erna Tillemann
+(Siirak) on kirjutanud 1933. aastal uurimistöö teemal „A. H. Tammsaare lauseehitus”.
+Tammsaare teostes on uuritud rind-, põim- ja koondlauseid, aga ka lauselühendite
+kasutamist.
+
+
+Erna Tillemann on uurinud ka Tammsaare stiili. Ta on kirjutanud Tammsaare lause
+struktuurist ja sõnastusstiilist, vaadeldes eelkõige „Kõrboja peremeest” ning „Tõe ja
+õiguse” I osa. Tema sõnul pole Tammsaare sõnastusele kuigi palju tähelepanu
+pööranud, kuigi huvitub Tillemanni sõnul keele hingeelust. Küll aga ei saa öelda, et
+Tammsaarel ei oleks temale omast sõnastusstiili – see väljendub ka siis, kui kirjanik ei
+pööra teadlikult tähelepanu sellele, kuidas ta sõnu ritta seab. (Tillemann 1940: 313)
+
+
+Tillemanni (1940: 314–315) sõnul on Tammsaare tüüpiline lause pikk ja hargnev, sest
+kirjanik olevat tahtnud seeläbi edasi anda elu mitmekesisust ning karakteriseerida
+tegelaste suhteid, seda eriti „Kõrboja peremehes”. Ent dialoogis, kus tegelased
+kõnelevad rahvakeeles, on laused lihtsama ehitusega. „Tões ja õiguses” on keel
+märgatavalt ühtsem, kuna esineb ka rohkem rahvakeele kasutust. Tillemanni (1940:
+319) järgi võib Tammsaare loomingus tähele panna kirjaniku erksat kuulmismeelt,
+millega ta annab edasi, missuguseid helisid ja hääli tegelased kuulevad ning
+missuguseid tundeid need tekitavad. Isegi naisi kirjeldab Tammsaare häälte kaudu.
+
+
+Keelekasutust on lähemalt vaadanud Aili Kask oma diplomitöös „A. H. Tammsaare
+romaani „Tõde ja õigus” I osa keelest” (1959). Kase uurimuse kohaselt on Tammsaare
+suutnud „Tõe ja õiguse” I osas luua ühtlase keelekasutuse, kus ülekaalus on rahavalik
+
+
+
+                                                                                        18
+kõnekeel, mida ta loob rahva seas tuntud sõnavaraga (Kask 1959: 18). Kask keskendub
+põgusalt ka Tammsaare stiilile (Kask 1959: 46) ning süntaksile, on uurinud erinevaid
+lausetüüpe Tammsaare teoses ning on selgunud, et koondlause on „Tões ja õiguse” I
+osas enim kasutatav lausetüüp (Kask 1959: 66). Rindlauset on rohkem kasutatud
+dialoogides, kus see lausetüüp loob paremini ettekujutuse, et tegu on ehtsate inimestega
+(Kask 1959: 70). Rahvakeelsuse loomisel on oluline ka murdesõnade tarvitus (Kask
+1959: 90). Ühtlasi toob Kask välja foneetilisi (1959: 105) ning morfoloogilisi erijooni
+(1959: 108), mis Tammsaare teoses leidus.
+
+
+Kõige hiljutisema Tammsaare keelekasutuse uurimuse on kirjutanud Maria Mandri
+2013. aastal. Tema bakalaureusetöö kannab pealkirja „Murdekasutus A. H. Tammsaare
+romaanisarja „Tõde ja õigus” I osa tegelaskõnes”. Mandri uurib lähemalt „Tõe ja
+õiguse” I osas leiduvaid fonoloogilisi, morfoloogilisi ja leksikaalseid murdelisi erijooni
+ning analüüsitulemuste põhjal on väitnud, et Tammsaare on teoses kasutanud enim
+lääne- ja keskmurdele iseloomulikke tunnuseid. Tööst ilmneb, et Tammsaare jaoks on
+stiili puhul oluline teose usutavus, mis on loodud talurahvale iseloomulike
+keelekasutusega. (Mandri 2013: 49–50)
+
+
+
+
+                                                                                       19
+3. Murdekasutus A. H. Tammsaare romaanisarja „Tõde ja õigus” V
+osas
+
+
+„Tõe ja õiguse” V osa murdejoonte analüüsimiseks on teosest välja kirjutatud kõik
+normikeelest kõrvale kaldunud fonoloogilised ja morfoloogilised jooned ning
+murdelised sõnad. Kõik erijooned on paigutatud tabelitesse vastavalt sellele, millise
+joonega on tegu ning missuguse tegelase kõnest see pärit on. Töösse on lisatud
+kokkuvõtlikud tabelid. Seejärel on analüüsitud teoses enim esinenud fonoloogilisi ja
+morfoloogilisi murdejooni ning murdesõnu, välja toodud, missugusele piirkonnale need
+omased on ning kelle kõnes esineb murdepärasusi kõige rohkem.
+
+
+3.1. Peamised erijooned
+
+Tabelis 1 ja tabelis 2 on välja toodud romaanisarja „Tõde ja õigus” V osas enim
+esinenud fonoloogilised ja morfoloogilised murdejooned. Vertikaalses „kokku” tulbas
+on kirjas iga tegelase puhul kogu teoses kasutatud fonoloogiliste/morfoloogiliste joonte
+hulk, horisontaalses „kokku” tulbas on konkreetsete joonte esinemiste arv. Tabelitesse
+on kantud nii Mäe kui ka Oru talu tegelased, välja on jäetud nt Kassiaru peremees, kaks
+Oru sulast ning üks nimetu vanem meesterahvas, kellega tehakse juttu vaid korra.
+Nende kõnes kas puuduvad üldse murdelised erijooned või esineb neid vaid mõni üksik.
+
+
+
+3.1.1. Fonoloogilised jooned
+Fonoloogilistest murdejoontest on „Tõe ja õiguse” V osas kasutatud kõige enam
+pikkade madalate (aa, ää) ja keskkõrgete (õõ, oo) vokaalide diftongistumist. See on
+iseloomulik keskmurde tunnus (Pajusalu jt 2009: 142; Must, Univere 2002: 127), ent
+see on levinud ka idamurdes, Ida-Saaremaal, Kihnus, Muhus ning Lääne-Eesti rannikul.
+Keskmurde idaosale on iseloomulik, et diftongi esimene häälik on tavaliselt kõrge
+vokaal (ua, ia), ent harju murrakutes on selleks keskkõrge vokaal (oa, ea). (Must,
+Univere 2002: 127–129)
+
+
+
+
+                                                                                     20
+Tabelis 1 on välja toodud Vargamäe tegelaste kõnes enim esinenud fonoloogilised
+murdejooned.
+
+
+Tabel 1. Enim esinenud fonoloogilised erijooned
+
+               aa    ää      õõ      ja     r
+  Tege-        >     >       >       >      >       sk >      st >                 Kok-
+  lased        ua    ea      õe      jä     Ø       ss        ss        ks > s     ku
+  Andres        -     -        3      2       -        -         4         -         19
+  Pearu        96    38       14      4      1         -         -         -        171
+  Indrek        -     -        -      -       -        -         -         1          2
+  Maret         -     -        -      1       -        -         1         -          3
+  Sass          -     -        -      -      1         -         -         -          2
+  Karla         -     3        -      -      1         -         -         -          5
+  Ida           -     -        -      -      1         -         -         -          1
+  Oskar         -     -        2      1       -        -         -         1          5
+  Elli          -     -        1      1       -        -         -         -          2
+  Ott           -     -        3      1      1         -         -         -          7
+  Tiina         -     -        -      1       -        -         -         -          3
+  Helene        -     -        -      -       -        -         -         -          0
+  Juuli         -     -        -      -      1         -         -         -          1
+  Eedi          -     -        -      -       -        7         -         -          7
+  KOKKU        96    41       23     11      6         7         5         2
+
+
+„Tõe ja õiguse” V osas on pikk aa moodustanud diftongi ua (nt suab), ää esineb kujul
+ea (nt pease) ja õõ-st on saanud diftong õe (nt võeras), oo on muutunud uo-ks ning
+esineb teoses vaid ühe korra – Pearu kõnes (tuond). Tabelist 1 on näha, et seesugust
+pikkade vokaalide diftongistumist esineb kõige enam Oru Pearu kõnes, ent mõned
+korrad võib seda märgata ka teiste tegelaste puhul. Pearu kõnes esineb sõnaalgulise
+diftongi ees veel ka konsonant j (jaal). See märgib vanemat keelekasutust (Pajusalu jt
+2009: 142). Sama sõna – jaal – puhul on toimunud muutus ka pikas vokaalis – madal
+pikk eesvokaal on muutunud madalaks pikaks tagavokaaliks (ää > aa).
+
+
+Pika keskkõrge õõ diftongistunud vorme esineb lisaks Pearu kõnele veel Andrese, Elli,
+Oskari ja Oti kõnes ning seda vaid sõnades võõras ja Krõõt. Mõlemad sõnad esinevad
+
+
+
+
+                                                                                   21
+teoses ka kirjakeelsel kujul. Metateesi praegu > paergu esineb vaid kahel korral
+Andrese kõnes.
+
+
+Tabelist 1 on näha, et teoses on kasutatud ka häälikulist muutust ja > jä (nt jäks,
+jäksama, jänu). See on iseloomulik nähtus suuremale osale kesk- ja läänemurde aladest
+(Must, Univere 2002: 107). Seda esineb teistest pisut rohkem Andrese ja Pearu kõnes.
+Nähtus, kus lauserõhutus asendis kaob r vokaalide vahelt sõnas ära, on iseloomulik
+kogu keskmurde alale (Must, Univere 2002: 74). Tegelaskõnes esineb seda pea poolte
+tegelaste kõnes, kuid väga vähesel määral. Assimilatsioon sk > ss on iseloomulik saarte
+ja läänemurdele, kuid esineb ka Põhja-Tartumaa ja Põhja-Viljandimaa murrakutes
+(Must, Univere 2002: 46). Teoses kohtab seda nähtust üksnes Eedi kõnes (kässib).
+
+
+Assimilatsioone leidub teoses teisigi, näiteks esineb Andrese ja Mareti sõnavõttudes
+muutust st > ss (nt varssi). See nähtus on iseloomulik idamurde Kodavere murrakule
+(Must, Univere 2002: 47). Indreku kõnes esineb vaid kaks häälikulist erijoont: b > v (nt
+kõrb : kõrve), mis on omane eelkõige viru murrakutele (Must, Univere 2002: 32) ning
+ks > s (nt joosnud), mis on iseloomulik keskmurde lääne- ja edelaosale, aga ka lääne- ja
+saarte murdele (Must, Univere 2002: 55). Nähtus ks > s esineb ka Oskari kõnes.
+
+
+
+
+                                                                                     22
+3.1.2. Morfoloogilised jooned
+Tabelis 2 on välja toodud Vargamäe tegelaste kõnes enim esinenud morfoloogilised
+murdejooned.
+
+
+Tabel 2. Enim esinenud morfoloogilised erijooned
+
+                                         id-line
+                                         mitmuse       a-line mitmuse
+ Tegelased     nud > nd      nud > Ø     partitiiv     partitiiv          Kokku
+Andres             128           14             -                2          152
+Pearu               65           11             -                3           79
+Indrek               -            -             -                -            -
+Maret               53            1             2                -           56
+Sass                25            1             -                -           27
+Karla               54            6             -                1           61
+Ida                 14            2             -                1           17
+Oskar               25            1             -                -           26
+Elli                13            2             -                -           15
+Ott                 28            1             -                -           31
+Tiina              105            3             5                -          113
+Helene              13            -             -                -           13
+Juuli               13            -             -                -           13
+Eedi                 2            -             8                -           10
+KOKKU              538           42            16                7
+
+Tabelist 2 on näha, et „Tõe ja õiguse” V osas esineb morfoloogilistest joontest kõige
+enam isikulise tegumoe mineviku nud-partitsiibi lühenemist (nud > nd), näiteks käind,
+läind, näind. See on levinud keskmurde nähtus, kuid seda leidub ka läänemurdes ja
+kirderannikumurdes. (Must, Univere 2002: 340) Teine enim esinenud morfoloogiline
+joon on tunnuseta nud-partitsiip (nt and, taht). Mõlemaid vorme kasutab suurem osa
+tegelastest, välja arvatud Indrek. nud-tunnuselisi partitsiipe on enim Andrese kõnes,
+järgneb Tiina ning seejärel Pearu. Tunnuseta nud-partitsiipi kasutab kõige rohkem
+samuti Andres, pea sama palju leidub seda Pearu kõnes, teistel tegelastel esineb seda
+vähem.
+
+
+Ülejäänud morfoloogilistest erijoontest kasutatakse eripäraselt moodustatud mitmuse
+partitiivi vorme, näiteks krutskeid > krutskid, mis on iseloomulik rohkem Lõuna-
+
+
+                                                                                   23
+Eestile. Seda kasutatakse näiteks Põhja-Tartumaa ja Põhja-Viljandimaa murrakutes.
+(Must, Univere 2002: 228) Teoses esineb id-lõpulist mitmuse partitiivi vormi Eedi,
+Tiina ja Mareti kõnepruugis. Andres, Pearu, Karla ja Ida kasutavad a-lõpulisi mitmuse
+partitiivi vorme, näiteks tükka, asunikka, kiva, tonta, kuuska, mis on levinud lisaks
+keskmurdealale ka lääne- ja idamurdes (Must, Univere 2002: 227).
+
+
+
+3.1.3. Sõnavara
+Nagu esimeses peatükis osutatud, on üks murdekasutuse eesmärke viidata tegelaste
+päritolule. Selle peatüki eesmärk ongi vaadelda „Tõe ja õiguse” V osa tegelaskõnes
+esinevaid murdesõnu ning välja tuua, missugusele piirkonnale need sõnad
+iseloomulikud on. Sõnade esitamisel on lähtutud nende erinevusest kirjakeelest. Kuna
+käesoleva töö eesmärk pole anda täpset loendit teoses kasutatud murdesõnadest, siis ei
+tooda selles peatükis välja kõigi tegelaste kõnes esinenud murdesõnu, vaid esitatud on
+peamiste tegelaste kõnes kasutatud sõnad. Eesmärgiks on välja selgitada, kuivõrd viitab
+murdesõnade kasutamine konkreetsele piirkonnale.
+
+
+Murdesõnade levikuala määramisel on peamiselt kasutatud „Väikest murdesõnastikku”
+(VMS), kust pärinevad ka enamike sõnade tähendused. Kui VMS sõnade tähendust ei
+andnud, on need saadud „Eesti keele seletavast sõnaraamatust” (EKSS 2009) või „Eesti
+murrete sõnaraamatust” (EMS 2004).
+
+
+Tammsaare on tegelaskõnesse lisanud mitmeid kodumurrakule omaseid sõnu, seetõttu
+on tabelis 3 need ka välja toodud. Kuna Tammsaare kodumurrakus levinud sõnavara
+leidus ka jutustajatekstis, on käesoleva töö autor ka need välja toonud.
+
+
+
+
+                                                                                    24
+Tabel 3. Järva-Madise murrakule omased sõnad
+Tegelane    Sõna
+Andres      Paristama
+Andres      kapuk(as)
+Andres      Orm
+Pearu       Inkuma
+Pearu       Sopsima
+Pearu       Kupits
+Pearu       Vistar
+Pearu       ving (vingamees)
+Pearu       Kunskopp
+Karla       Kunskopp
+Karla       Kupits
+Karla       Lukutama
+Indrek      Kunskopp
+Indrek      Rägu
+Sass        Narrima
+Maret       Mädand
+Jutustaja   Sajakoorne
+Jutustaja   Mõnama
+Jutustaja   Vinku
+Jutustaja   Natt
+Jutustaja   Painepakk
+Jutustaja   Laju
+Jutustaja   Klomp
+Jutustaja   ving (vingamees)
+
+
+Teoses ei kasutata palju seesuguseid eripäraseid murdesõnu, mis esineks mitme tegelase
+kõnepruugis. Pigem tuleb välja üksikuid sõnu, mida leidub vaid mõne konkreetse
+tegelase väljaütlemistes. Kuid näiteks sellised sõnad nagu rehnutt, vahmiil, pedakas,
+kunskopp leidub tekstis siiski veidi rohkem. Rehnutt ja vahmiil on ülekaalus Pearu
+kõnes.
+
+
+Andrese kõnes esineb peamiselt läänelise levikuga sõnadest paristama ʻhangeldamaʼ,
+mida leidub ka Järva-Madise murrakus, parnama ʻlobisemaʼ, mis on omane ka Suure-
+Jaani kihelkonnale, ühtlasi pahmitsema, tähenduses ʻsegamini ajamaʼ (VMS), ent
+teoses kannab see pigem tähendust ʻpahandamaʼ (EKSS 2009) – see selgub ka näitest 1.
+
+
+
+                                                                                   25
+     (1) „Ükskord pahmitsesin, kui teised tegid tõkkeid, aga nüüd teen ise sedasama.”
+          (8)
+
+
+Nii Andres, Indrek, Tiina kui ka Oskar kasutavad väga kitsa levikuga sõna pedakas
+ʻmändʼ (EKSS 2009) – see esineb vaid kahel läänemurde alal, ühes keskmurde,
+idamurde ja Tartu murde murrakus. Küll aga on samatüveline sõna Eestis rohkem
+levinud, nt pedajas on ülekaalus lõunaeesti murretes. Andrese kõnes esineb ka sõna
+säädne ʻkohaneʼ, mis Pearu kõnes saab kuju seadne, levinud on see vaid ühes
+läänemurdealale jäävas murrakus ja ühes rannikumurde murrakus. Andres kasutab ka
+üksnes keskmurdealale jäävale Simuna murrakule iseloomuliku murdesõna – vänklema
+ʻjagelemaʼ. Seda leidub ka Indreku ja Mareti kõnepruugist. Sõna kapuk(as) ʻsokk᾽ on
+laialt levinud, esineb rohkem Eesti kesk- ja põhjaosas, sh Järva-Madise murrakus, ent
+kasutatakse ka läänemurdes. Horm ʻaas v. tärge pastla v. viisu servas paelte
+läbitõmbamiseks; risti üle jala käiv pastla-, viisupael᾽ (EKSS 2009) on Andrese kõnes
+kasutusel ilma sõnaalgulise h-ta ning see sõna on levinud enamasti Eesti põhjaosas
+keskmurdealal, sh Järva-Madise murrakus, aga ka ranniku ja idamurdes.
+
+
+Pearu kõnes on palju laialt levinud sõnu, ent siiski kasutab tema kõige enam Järva-
+Madise kihelkonnale omast sõnavara. Pearu kõnes esineb näiteks sõna hinkuma ʻtagant
+üleslöömisel kiljuvalt hirnumaʼ (EKSS 2009) ilma sõnaalgulise h-ta, mis on levinud
+kõigis murretes peale Mulgi ja Tartu, ühtlasi kasutatakse seda sõna Järva-Madise ja
+Suure-Jaani kihelkonnas. Otsaline ʻotsustaja, juhtijaʼ on levinud vaid mõnes ükskikus
+paigas, eelkõige Lõuna-Eestis. Oma kõnes kasutab Pearu ja kord ka Karla sõna rehnutt
+– VMS-is leidub seda kujul: reh(k)nu, reh(k)nut(t), rehnuk, rehtnut, rehvnuk, rehknuut,
+rehkont, rehk(n)um. Seesugused vormid on kasutusel kõikides murretes, kuid ülekaalus
+on need siiski keskmurdealadel.
+
+
+Eelkõige lõunalise levikuga on Pearu kasutatav sõna karmansik ʻtaskuvarasʼ, mis kujul
+karmantsik on levinud siiski ka kõigis teistes murretes. Sopsima ʻ(sopsudega) korduvalt
+kergesti löömaʼ (EKSS 2009) on hajusalt levinud kõigis murretes, sh on esindatud ka
+
+
+                                                                                    26
+Järva-Madise murrakus. Kõikidel murdealadel on küllaltki laialt levinud Pearu ja Karla
+kasutatav vahmiil, samuti kupits ʻpiiritähisʼ, mis on omane ka Järva-Madise murrakule.
+Vistar on enamasti läänelise levikuga, kasutusel põhiliselt saarte ja läänemurdes, ent on
+esindatud ka keskmurdes, sh Järva-Madise murrakus. Teoses esineb sõna vistar Pearu
+kõnes ülekantud tähenduses ʻtüliasiʼ (EKSS 2009), mis ilmneb ka näitest 2.
+
+
+     (2) „Siis põlnd veel mingit vistart Mäe ja Oru vahel, nii et Liisi veri jäi vaenust
+          rikkumata, nagu oli rikkumata Joosepigi veri, sellepärast pidigi neist kahest
+          kirikualtari ees puar suama.” (88)
+
+
+Nii Indreku, Pearu kui ka Karla kõnes esineb sõna kunskopp ʻkaval nõks, riugasʼ (EMS
+2004), mis kujul kunsskopp on iseloomulik lisaks Järva-Madise murrakule ka
+Kullamaale ja Põltsamaale, veidi teistsugustel kujudel tuntakse seda ka mujal. Karla
+kasutab sõna lukutama ʻlukustamaʼ, mille suurem levikuala jääb selgelt keskmurdealale,
+olles esindatud ka Järva-Madise murrakus. Karla sõnavaras on väljend vollmahimees,
+mis VMS-is on kujul volmaht ʻvoliʼ ning seda on kasutatud vaid keskmurdealal Ambjas
+ning läänemurdealal Häädemeestel.
+
+
+Indreku sõnavaras on huvitav väljend lilla laskma (3), mis tõenäoliselt tuleb sõnast
+lillutama ʻlõbutsemaʼ.
+
+
+     (3) „Vanemad on isamaalased, lapsed kadakad, isad koguvad varandust, pojad
+          pillavad ja muutuvad kerjusteks, üks põlv teeb tööd, teine laseb lilla.” (10)
+
+
+Jutustajatekstis esineva sõna lillutama levikuala on väga väike – seda esineb vaid
+üksikus Võru ja rannikumurde piirkonnas. Indrek kasutab sõna kõlvuline ʻkõlblikʼ, mida
+leidub keskmurdealalt vaid Kuusalust, ent seda esineb ka Võru murde alal Harglas ning
+pisut ka Tartu murde piirkonnas. Müütama ʻväikestes kogustes oma käest müüma᾽ on
+eelkõige läänemurdeline sõna, kuid seda esineb ka mitmes paigas keskmurdealal ning
+vähesel määral ranniku- ja idamurdealal. Ohoh tähenduses ʻrumalʼ on esindatud
+küllaltki vähestes piirkondades, veidi enam siiski läänemurdealal, samuti sõna rägu
+
+
+                                                                                          27
+ʻrisu, praht᾽ (EKSS 2009) on vähese levikualaga, esinedes siiski ka Järva-Madise
+murrakus.
+
+
+Sassi kõnes on väljend narrima ʻtüdrukut, naist häbisse saatmaʼ (EKSS 2009), mis on
+iseloomulik kõigile murretele, levinud on see ka Järva-Madise murrakus. Sassi
+kõnepruugist leiduv sõna kiiama ʻhullamaʼ on levinud eeskätt läänemurdealal, kuid
+esineb ka Mulgi ning keskmurdes. Seegama ʻsaalima, segima, seerimaʼ (EKSS 2009) on
+levinud peamiselt Põhja-Eestis rannikumurdes, kuid seda leidub ka kesk- ja saarte
+murdes. Tellerdama ʻsiia-sinna käima, ringi jooksma᾽ (EKSS 2009) on väga vähese
+levikualaga – keskmurdealal kasutatakse seda vaid Põltsamaal, läänemurdealal Toris,
+Mulgi murde alal Tarvastus, idamurde piirkonnas Tormas, rannikumurde alal Viru-
+Nigulas ning saarte murde alal Kaarmas ja Valjalas.
+
+
+Mareti kõnest võib leida sõna setu ʻnii mituʼ, mida esineb väga üksikutes murrakutes –
+saarte piirkonnas, Lõuna- ja Edela-Eestis, sama kehtib mitu-setu kohta. Seevastu
+kirumissõna mädand on iseloomulik väga laiale alale Eestist, olles ülekaalus siiski
+keskmurdealal, levinud on ühtlasi Järva-Madise murrakus. Maret kasutab väljendit
+liperdama, mille tähenduseks VMS annab ʻliiderdamaʼ ning mis sel kujul on levinud
+pea üle Eesti, ent teoses on see pigem tähendusega ʻamelema, ringi tõmbamaʼ (EKSS
+2009) (4):
+
+
+     (4) „Seda halvem, kui ta poisiga muidu liperdama hakkab.” (133)
+
+
+Tiina kõnepruugist leidub murdelistest sõnadest lisaks pedakale veel vaid väljend rinu
+ʻnärukaelʼ, mis on esindatud üksnes rannikumurdealal Haljalas.
+
+
+Jutustajatekstis esineb samuti mitmeid Järva-Madise kihelkonnale omaseid sõnu, nt
+mõnama, millele EKSS annab vaste ʻ(torisedes) sajatama, kiruma, põhjama, manamaʼ,
+vinku ʻõlleankur, piimanõuʼ, sajakoorne (sadakoorne) ʻpuuʼ (VMS), ʻkikkapuu
+rahvapärane nimetusʼ (EKSS 2009) – see on lisaks Järva-Madise murrakule omane ka
+Põltsamaale ja Iisakule. Järva-Madisel kasutatakse ka sõnu natt ʻkahvʼ, painepakk
+
+
+                                                                                   28
+ʻpaindepakkʼ, (pilve)laju ʻjäänusʼ, klomp ʻtükkʼ, mida teoses kasutati ühendina
+puuklomp. Nii Pearu kõnes kui ka jutustajatekstis võib märgata Järva-Madise murrakule
+omas sõna vingamees, VMS-i järgi tähendab ving ʻvimmaʼ.
+
+
+Tabelist 3 on näha, et tegelaskõnes on Tammsaare kõige enam kasutanud oma
+kodumurrakule omaseid sõnu Pearu kõnes, seega tuleb Pearu puhul teistest selgemini
+esile seos kindla kohaga – keskmurde tuumalaga. Ka Karla ja Andres kasutavad
+ülejäänud tegelastega võrreldes mõnevõrra rohkem Järva-Madise murrakule omast
+sõnavara. Teiste kõnes oli Järva-Madise murrakus kasutatavaid sõnu vähem või
+puudusid need üldse. Ka jutustajatekstis esineb sõnu, mida saab seostada Tammsaare
+kodukohaga.
+
+
+
+3.1.4. Argikeelsused
+Nagu juba esimeses peatükis osutatud, on argikeel Hennoste sõnul kirjakeele lohakam
+variant, millest tuleks avalikes sõnavõttudes hoiduda (Hennoste 2000b: 70). Hennoste
+lisab, et „argikeelseteks joonteks nimetatakse kõike seda, mis on kirjakeeles keelatud ja
+mida ei saa paigutada ka murrete alla” (Hennoste 2000b: 71). Määramaks, kas tegu on
+argikeelsusega või mitte, on kasutatud „Õigekeelsussõnaraamatu“ (ÕS 2013) abi.
+
+
+Argikeelsustest esineb enim keelendit niisuke, mida kasutavad teistest tegelastest
+rohkem Andres ja Tiina. Pearu keelekasutusse kuulub näiteks sõna justament. Nii
+Indrek, Maret, Tiina, Juuli kui ka Helene kasutavad vormi misuke sõnast missugune.
+Nagu ka suuremal osal teistel kõnelejatel, leidub ka Indreku kõnes keelend niisuke. Nii
+Pearu kui Mareti kõnes, aga ka jutustajatekstis on sõna minia asemel mini. Argikeelsete
+joontena saab veel välja tuua õhkagi, ühti.
+
+
+
+
+                                                                                      29
+3.2. Varieerumine
+
+Nagu eespool viidatud, on varieerumise kasutamine üks viis, kuidas ilukirjanduses edasi
+anda illusiooni tegelikust kõnest. Hennoste (2000a: 49) toob välja, et inimeste puhul on
+tavaline, kui erinevates olukordades kasutatakse keele erinevaid variante, näiteks nud-
+partitsiibi lühenenud varianti nd. Teose analüüsimisel tuli välja, et Tammsaare on
+kasutanud sellist varieerumist ka pea kõigi oma tegelaste kõnes, välja arvatud Ida, Eedi
+ja Helene puhul. Ülekaalus on siiski nd-vormid. Esineb ka varieerumist sama kõnevooru
+piires, näiteks Andrese (5) ja Mareti (6) puhul:
+
+
+      (5) „Tal polnud nahast veesaapaidki, või kui oli, siis ei raatsind ta neid jalga
+          panna.” (114–115)
+      (6) „Ühel ilusal kevadisel päeval oli ta äkki öelnud mõned sõnad ja näidand ise
+          käega akna poole.” (110)
+
+
+Mitme tegelase kõnes leidub sama sõnavormi erinevat kasutust, seda näiteks Karlal (7a–
+b), Andresel (8a–b) ja Sassil (9a–b):
+
+
+      (7) a) „Sest ega siis tema heaga kellegi ligi pease.” (85)
+         b) „Arvad sa nõnda kergemini taevauksest sisse pääseda või?” (274)
+      (8) a) „Inimene kirjutas suure kirja ja ütles siis: see on jumalasõna, ning kui jumal
+             neid inimesesõnu ei pidand, siis neeti ja vannuti ta ära, sest ta põlnd
+             täitnud inimese õigust.” (100)
+          b) „Poeg, minul pole Vargamäel enam midagi keelata ega käskida.” (6)
+      (9) a) „Ega me põle kusagil kõrtsis, vaid puhtal laadaplatsil jumala päikese ja
+             tuule käes.” (206)
+          b) „Ei, poeg, mul oli ainult sinu ema ja mul pole kunagi kedagi teist olndki.”
+             (244)
+Andrese kõnepruugist leidub nii a-lõpulist mitmuse partitiivi (nt tükka, kuuska) kui ka i-
+lõpulist mitmuse partitiivi (oksi), samuti vorme praegu ja paergu ning varsti ja varssi.
+Ühtlasi on Andres ainuke tegelane, kes kasutab nii vormi inimene kui ka inime, esimest
+
+
+                                                                                        30
+siiski tunduvalt rohkem. Kord leidub mõlema vormi kasutamist ka sama lause piires,
+nagu näites 10.
+
+
+
+      (10) „Noor inimene armastab joosta ja hüpata, aga noor puu seisab paigal, nii et
+          noor puu on natuke nagu vanainime, ainult, et noor puu veel kasvab, aga vana
+          inime ei kasva, või kui kasvab, siis maa poole, mullale lähemale.” (108)
+
+
+Niisugune ja niisuke varieerumist leidub vaid Indreku ja Oti kõnepruugis, teised
+tegelased kasutavad ainult niisuke vorme. Mõlemad tarvitavad siiski vormi niisuke
+rohkem kui kirjakeelset varianti.
+
+
+Kui Karla kõnes esineb nii pikavokaalilisi vorme (ää) kui ka diftongistunud vorme (ea),
+siis Pearul on pikk ää kõikjal diftongistunud. Pearu kõnele on iseloomulik
+diftongistumine aa > ua, teistel tegelastel säilib pikk aa. õõ > õe muutus esineb nii
+Pearu, Andrese, Oskari, Elli kui ka Oti kõnes, ent Andres kasutab siiski ka õõ-lisi
+vorme. Kui nii Andrese kui ka Indreku kõnes kohtab kirjakeelset varianti Jeesus
+Kristusest, siis Pearu kõnepruugist leiab selle kujul Eesus Krestus, vahel ka Essuke.
+
+
+Varieerumine on inimeste kõnes tavaline nähtus, seega muudab varieerumise
+kasutamine ka ilukirjanduslikud tegelased usutavamaks. Seda võtet on kasutanud ka
+Tammsaare oma tegelaskujude kõnes. Varieerumist ei esine kõigil tegelastel, kuid
+olulisematel tegelastel oli see siiski olemas.
+
+
+
+
+                                                                                        31
+4. Murdekasutuse eesmärgid A. H. Tammsaare romaanisarja
+„Tõde ja õigus” V osas
+
+Kirjanikud kasutavad oma teoses murret mingil kindlal eesmärgil ja nagu esimeses
+peatükis osutatud, on enam levinud põhjusteks reaalsusetaotlus, sotsiaalse positsiooni
+või regionaalse tausta markeerimine. Murdekasutusega tulevad esile ka vastandused
+erinevate tegelaste vahel.
+
+
+
+4.1. Murre kui vahend realistlikkuse loomiseks
+
+Eespool selgus, et kirjanduslikku murret kasutatakse sageli selleks, et elu teoses tunduks
+võimalikult reaalne ning et näidata, kuidas inimesed tegelikult kõnelevad. Ka
+Tammsaare on loonud lugejale illusiooni, et tegu on tõepäraste inimestega ja nende
+vestlustega. Kuid samas pole Tammsaare hõlmanud kõiki keskmurdejooni, vaid on
+valinud tüüpilisemad tunnused konkreetsetele tegelastele, seetõttu pole tekst lugeja
+jaoks raskesti mõistetav.
+
+
+A. H. Tammsaare „Tõe ja õiguse” V osa peamiseks murdekasutuseesmärgiks saab
+pidada realistlikkuse loomist. Tammsaare on oma teose tegelased lugeja jaoks muutnud
+realistlikuks, kasutades tegelaskõnes talurahvale iseloomulikku keelekasutust ja pannes
+nad kõnelema sarnaselt tegelike inimestega.
+
+
+Tammsaare on realistlikkuse loomisena kasutanud näiteks mingil määral vandesõnu ja
+vulgaarkeelendeid. Vandesõnu kasutati olukordades, kus oldi enamasti mingil põhjusel
+ärritatud meeleolus, vulgarisme võis aga märgata ka tavaolukordades. Nii Andrese (11)
+kui ka Pearu (12) kõnes oli kasutusel vandesõna raip. Sõna saatan esines nii
+kirjakeelses vormis Oti kõnes (13) kui ka murdelisena Sassi kõnes (14):
+
+
+      (11) „Piipugi, raibet, ei kannata teine enam.” (96)
+     (12) „Hea küll, et püstoliraip lõhkes, aga miks siis kohe pähe?” (88)
+
+
+
+
+                                                                                       32
+      (13) „Ukse kaudu muidugi mitte, sest see, saatan, kräunub hirmsasti, aga aknast!”
+          (178)
+      (14) „Ma neile kivisaadanatele veel kord itsi teen, nii et nad mäletavad.” (40)
+
+
+Mitmeid kordi väljendati oma pahameelt kirumissõnadega, nt Sassi kõnes pime loom
+(15) ning Maret kasutas ka murdelist vandesõna mädand (16):
+
+
+      (15) „Ega ta, pime loom, ometi Oru vahet jõlgu?” (166)
+      (16) „Ega mädandit tea, laps oleks teisel ehk terve?” (210)
+
+
+Realistlikkust on Tammsaare loonud ka vanasõnade ja fraseologismide lisamisega
+tegelaskõnesse (17–19):
+
+
+      (17) „Vaata, et sul selle lauluga pill pika ilu järele ei tule.” (232)
+      (18) „Kel janu, sel jalad.” (249)
+      (19) „Täissöönul pole isu ja nälginul pole toitu.” (328)
+
+
+Tammsaare on lisanud tegelaskõnesse ka piibliväljendeid ja -sõnu, mida leidub enim
+Pearu kõnes (20a–b), aga vähesel määral ka Andresel (21). Pearu kõnes on mitmed
+piibliväljendid fonoloogiliselt kirjakeelest erinevad, nt hallelooja, Essuke, uamen.
+
+
+      (20) a) „Vuata, poeg, kui ma nõnda mõtlen, siis ma arvangi, et Orule oleks vana
+            Andrese verd, talle oleks õndsa Krõeda verd vaja – Essuke olgu temaga,
+            hallelooja!” (84)
+            b) „See on minu viimne soov ning see olgu teile kõigile püha, hallelooja,
+            uamen!” (292)
+      (21) „Just seda ma tahakski näha, et kas koer läheb oma okse juurde tagasi, nagu
+            pühakiri ütleb.” (64)
+
+
+
+
+                                                                                        33
+4.2. Murre kui vahend vastanduste loomiseks
+4.2.1. Haritud ja harimata tegelaste vastandamine
+Nii nagu „Tõe ja õiguse” I osaski, paistab ka V osas silma maainimeste ja linnainimeste
+keele erinevus. Haritud tegelaste ainsaks esindajaks on „Tõe ja õiguse” V osas Indrek,
+kes vastandub ülejäänud Vargamäe rahvale oma peaaegu kirjakeelse keelekasutusega.
+
+
+Andrese kõnest saab välja tuua nt sõnad kulduur, kramovonn, raadipill (22), mis
+erinevad fonoloogiliselt kirjakeelsest variandist ning millega Andres näitab oma pisut
+pilkavat suhtumist haritumatesse inimestesse ja haritlaskeelele omastesse sõnadesse.
+Ühtlasi viitab Andrese seesugune sõnakasutus, et tegu on talurahva sekka kuuluva
+inimesega:
+
+
+        (22) „Minu arust on see suur ja hirmus sõda rahva lolliks teind. Ükski ei tea enam,
+            mis ta kõik tahaks. Osta jalgratas, siis puudub kramovonn, anna talle
+            kramovonn, siis tahab ta raadipilli. Ükski ei viitsi enam midagi teha ega
+            õppida, kõik tahavad ainult, et oleks ühtepuhku kulduur ja kulduur. Küll mina
+            olen vahel oma südames jumalat palunud, et ta veel pisutki mu elupäivi
+            pikendaks, sest ma tahaks kangesti näha, kui kaua niisuke kulduur õieti
+            kestab, et isegi maainimestel pole enam vaja vändata, vaid pillivänt käib aina
+            ise, pole muud kui lõhu tantsida. Hundipalul olla nüüd niisuke pill ja kulduur,
+            seal käiakse ikka teda kuulamas.” (33)
+
+
+Ka Pearu kõnes esineb ebatavaliselt hääldatud sõnu, näiteks Indrekuga kõneledes
+kasutab Pearu sõna protsessima, mis Pearu kõnepruugis on saanud kuju prosessima
+(23):
+
+
+        (23) „Ka sinu isa mõtlemised ja himustamised on tühjaks suand, meie mõlemad,
+            need kaks kanget Vargamäe vanameest, oleme tühja eland ja prosessind, sest
+            meie rehnutipidamised ei ole piisand vägede Jehoova ees.” (212)
+
+
+
+
+                                                                                        34
+Vargamäe inimesed kuuluvad talurahva hulka ja nad kõnelevad talurahvale omast keelt.
+Nende kõnes esineb mitmesuguseid fonoloogilisi ja morfoloogilisi murdejooni ning
+oma keelekasutuselt vastanduvad nad linnas elanud ja haridust omandanud Indrekule,
+kes kõneleb peaaegu kirjakeelselt, kui välja arvata mõned argikeelsused (nt niisuke,
+misuke), fonoloogilised erijooned (jooksnud > joosnud, kõrbest > kõrvest). Indrek ei
+kasuta näiteks kordagi nud-partitsiibi vokaalikaolist ega tunnuseta vormi, tema kõnes ei
+muutu pikad madalad ega keskkõrged vokaalid diftongideks. Aga kuna Indrek on
+lapsepõlves siiski elanud aastaid Vargamäel, on tema kõnes säilinud ka mõned üksikud
+murdesõnad (nt pedakas, kunskopp, vänklema, rägu), ent neid on tunduvalt vähem kui
+näiteks Andresel või Pearul. Need sõnad on Indrekul tõenäoliselt lapsepõlvest meelde
+jäänud ja nii nagu päriseluski, tuleb tuttavasse paika naastes varem kasutatud sõnavara
+taas meelde. Seda võib täheldada ka Indreku puhul, kes kodukohta tagasi tulles saab
+jälle lapsepõlves kasutatud murdesõnu tarvitada.
+
+
+Huvitava tulemuse on andnud Tiina ja Indreku võrdlus – mõlemad on küll elanud
+linnas, ent nende kõnet võrreldes on näha, et Tiina pole siiski nii haritud kui Indrek.
+Indreku kõnes ei esine ühtki morfoloogilist murdejoont, samas kui Tiina kasutab „Tõe
+ja õiguse” tegelastest pea kõige enam nud-partitsiibi vokaalikaolist vormi (nt teind),
+ühtlasi on tema kõnes tunnuseta nud-vormi (nt and), samuti id-lõpulist mitmuse
+partitiivi (krutskid). Nagu juba eespool mainitud, on fonoloogilisi erijooni Indreku
+kõnes vähe, samamoodi on see ka Tiinaga, kelle kõnes esineb vaid muutus ja > jä (nt
+jäksama) ja assimilatsioon nd > nn (nt kandnud > kannud). Võrreldes Tiinaga esineb
+Indreku kõnes mõnevõrra rohkem murdelisi sõnu. Põhjusena võib oletada seda, et
+erinevalt Tiinast on Indreku lapsepõlv möödunud maal, kus igapäevaselt ümbritsesid
+teda murdes kõnelevad inimesed. Küll aga kasutab Tiinagi üksikuid murdesõnu, näiteks
+pedakas ja rinu. Seega üksnes linnas elamine pole saanud määravaks Indreku
+keelekasutuse muutumises, vaid oluline on ka haridus.
+
+
+
+
+                                                                                     35
+4.2.2. Mäe ja Oru rahva vastandamine
+Nii, nagu „Tõe ja õiguse” I osas (Mandri 2013: 46), tõuseb esile ka „Tõe ja õiguse” V
+osas Mäe ja Oru vastandus, seda eelkõige Andrese ja Pearu kõnet võrreldes. Andres ja
+Pearu ei puutu „Tõe ja õiguse” V osas omavahel kordagi silmast silma kokku ning
+nendevahelised dialoogid teosest puuduvad. Küll aga saab kahe mehe vahelise
+vastanduse välja tuua nende vestlustest teiste inimestega. Eelkõige paistab Mäe ja Oru
+vastandus silma fonoloogiliste joonte poolest, näiteks Pearu kõnes on kõik pikad
+vokaalid diftongistunud, samas kui Andresel esineb seda vaid kolmel korral (24a–b)
+ning ülejäänud kordadel kasutab pikkade vokaalidega vorme.
+
+
+         (24) a) „Kes see tuli seal, kas oma või võeras?” (6)
+              b) „Teed ja ründad, kogud ja korjad, ja kui ootad surma, siis istud võera ulu
+               all ning sinu oma kodus elavad peaaegu võerad inimesed, kes raiuvad sinu
+               kasvatatud metsa uuteks eluhooneteks.” (95)
+
+
+Diftongistumisega seotud vastanduse Oru ja Mäe vahel saab välja tuua veel sõnade hääl
+ja häälitsema kasutamisega. Nii Karlal kui Pearul on nendes sõnades toimunud
+diftongistumine – Karla kõnes (25) esinevad need kujul heal ja healitsema ning Pearul
+(26a–b) arhailisemal kujul jeal ja jealitsema. Teiste kõnes esineb sõna hääl üldiselt väga
+vähe, ent siiski leiab seda näiteks nii Andrese (27) kui ka Tiina (28) kõnest kirjakeelsel
+kujul.
+
+
+         (25) „Las nad esteks healitsevad ja hõiskavad, loomadki tahavad enne healt teha.”
+             (135)
+         (26) a) „Aga, mu poeg, mis on Issanda ees enam, kas et sa temale loed ja laulad
+               suure ja kange jaalega või kas sa muretsed oma sinepiivakese eest, mis
+               Issand sinu hoolde and sinu ema rüpes?” (274)
+              b) „Jah, poeg, las nad aga jaalitsevad ja jorutavad, kukuvad ja kudrutavad,
+               ega muidu pesale minda.” (136)
+         (27) „No vaata, Karla, nüüd sul on jälle su õige hääl ja kõne, nõnda olen ma sind
+               ikka kuulnd ja kuulen surmani.” (310)
+
+
+
+                                                                                        36
+       (28) „Tähendab, ta ei oodand seal, ta ehk piilus jõe ääres padrikus ja tuli sealt
+            kohe mulle järele, nii et ka teisel teel oleks ta mu kätte saand, ainult seal
+            poleks Mullat olnd, ta poleks mu häält kuulnd.” (209)
+
+
+Võrreldes Oru rahvaga esineb Mäel rohkem morfoloogilisi murdejooni. Kui vaadelda
+Mäe ja Oru vanimaid tegelasi, siis Andrese kõnes on Pearust rohkem morfoloogilisi
+murdejooni, eelkõige nud-partitsiibi vokaalikaolist vormi. Mäelt paistab sama tunnuse
+rohke kasutamise poolest silma ka Tiina. Oru rahva seas on morfoloogilisi murdejooni
+kõige rohkem Pearu ja Karla kõnes. Mäe ja Oru laste võrdlusest saab välja tuua, et Mäe
+laste kõnes esineb morfoloogilisi erijooni enim Mäe lastel. Küll aga saab öelda, et
+häälikulised murdejooned, millega tõuseb esile Oru pere, eelkõige Pearu, viitavad
+rohkem konkreetsele paigale ja markeerivad seega enam päritolu kui morfoloogilised
+murdejooned. Viimastest on näiteks nd-vormid järjest enam muutumas argijoonteks
+(Hennoste 2000b: 71).
+
+
+
+4.2.3. Noorte ja vanade vastandamine
+Kõige enam murdelisi sõnu kasutavad teoses vanemad tegelased – Pearu ja Andres. Nad
+vastanduvad noorematele tegelastele, kelle kõnest võib murdesõnu vähem leida, näiteks
+Elli, Eedi ja Helene ei kasuta ühtki murdesõna. Juuli kõnest saab välja tuua kahe
+murdelise sõna kasutamise: tõuramus ning klõhverdama. EKSS-i järgi tähendab tõuras
+ʿtõbrast᾽ ning klõhverdama kujul lõhverdama tähenduseks on ʿlatrama, taga rääkima᾽.
+Et nende tähendus paremini selguks, on toodud mõlema sõna puhul ka näitelaused (29–
+30):
+
+
+       (29) „Sina tõuramus niisuke!” (180)
+       (30) „Pane sa tähele, tal on ka oma peres midagi soolas, mis see Tiina muidu meie
+           Eedi juttu kohe läks Eedile klõhverdama.” (178)
+
+
+Oti sõnavõttudest leidub vaid mõni üksik murdesõna, näiteks Järva-Madise
+kihelkonnale omane komu tähenduses ʿkraam᾽. Võrreldes Andrese ja Pearuga kasutavad
+Maret ja Sass vähem murdesõnu, kuid siiski esineb neid Mareti ja Sassi kõnes rohkem
+
+
+                                                                                      37
+kui nende lastel Ellil ja Oskaril. Elli ei kasuta ühtki murdesõna, Oskari puhul saab välja
+tuua vaid sõna pedakas.
+
+
+Tabelist 2 on näha, et morfoloogilisi erijooni on nii Mäe kui Oru laste kõnes vähem kui
+vanematel tegelastel. Lastele vastanduvad selgemini Andres ja Pearu, kuid ka Maret ja
+Karla. Vanade ja noorte vastandus ei ilmne kuigi selgelt fonoloogiliste joonte kaudu,
+välja arvatud Karla ja Pearu vahel, mis selgub ka peatükis 4.2.2 välja toodud näidetes,
+kus on võrreldud seda, kuidas Karla ja Pearu kasutavad sõnu hääl ja häälitsema. Karla
+kasutab neid kujul heal ja healitsema, Pearu kõnes saavad nad arhailisema kuju – jeal ja
+jealitsema. Muid selgelt välja tulevaid vastandusi fonoloogilisel tasandil on vähe. Oru
+Pearu tõuseb esile kui tegelane, kelle kõnes on fonoloogilisi erijooni kõige rohkem,
+eelkõige diftongistumisi. Andrese kõnes on häälikulisi erijooni tunduvalt vähem kui
+Pearul, kuid enam kui noorematel tegelastel.
+
+
+
+4.3. Murre kui vahend päritolu markeerimiseks
+
+„Tõe ja õiguse” V osa murdejoonte analüüsi (vt 3.1.3) põhjal saab väita, et Tammsaare
+on kasutanud palju seesugust sõnavara, mis on levinud üle Eesti, kuid siiski selgemini
+tulevad esile läänelised murdejooned, enamasti on nendeks kesk- ja läänemurde alale
+jäävad sõnad. Fonoloogiliste joonte vaatlusel tuleb rohkem välja keskmurdelisus, sellele
+viitavad eelkõige diftongistumised. Sõnavara uurimisel selgus ka, et mitmedki sõnad on
+iseloomulikud nii Tammsaare enda sünnikodule Järva-Madise kihelkonnale (nt
+paristama, kupits, vistar) kui ka vanemate endisele elupaigale Suure-Jaani kihelkonnale
+(nt parnama, hinkuma). Aga esines ka sõnu, mis olid laiemalt üle Eesti levinud. See
+võib viidata sellele, et kui Tammsaare sünnikodust lahkus, puutus ta kokku teistsuguste
+paikade ja kõnelemisviisidega, mida kasutas oma teose tegelaskõnes. Kuid ka loetud
+kirjandusest võis ta inspiratsiooni saada.
+
+
+Konkreetse piirkonnaga saaks ehk ainsana seostada Andrest ja Pearut, kelle kõnes oli ka
+teistest enam murdesõnu. Andrese kõnes esines mitmeid küllaltki kitsa levikuga sõnu,
+ent üldiselt olid need pigem läänelise levikuga, eelkõige lääne- ja keskmurdealale
+
+
+                                                                                       38
+jäävad sõnad. Oli ka otseselt Järva-Madise ja Suure-Jaani kihelkonnale omaseid sõnu, nt
+paristama, parnama, orm.
+
+
+Kuigi Pearu kõnes leidus mitmeid väga laia levikuga sõnu, nt vahmiil ja hinkuma ning
+ka näiteks enamasti Eesti lõunaosale omaseid sõnu, siis oli ka tema kõnes läänelise
+levikuga sõnu. Andresest rohkem oli Pearu kõnes Järva-Madise kihelkonnale
+iseloomulikke sõnu, nt inkuma, sopsima, kupits, vistar, mistõttu tuleb keskmurdelisus
+Pearu sõnavara vaadeldes veidi rohkem esile. Keskmurdele osutab ka Pearu kõnele
+omased pikkade madalate vokaalide diftongistumine. Kuigi Karla kõnest saab välja tuua
+vaid kolme murdesõna kasutuse, on neist näha, et need on pigem läänelise levikuga,
+rohkem keskmurdealale jäävad sõnad.
+
+
+Teiste tegelaste kõnes esineb murdesõnu vähe, seega ei saa kuigi selgelt viidata
+konkreetsele piirkonnale, millele omaseid sõnu nad rohkem kasutavad. Indrek kasutab
+näiteks sõnu, mis on omased küll kesk- ja läänemurdele, aga samas on ka sõnu, mis on
+levinud rohkem Lõuna-Eestis, sh Tartus, kus Indrek koolis käis.
+
+
+
+
+                                                                                    39
+5. Romaanisarja „Tõde ja õigus” I ja V osa analüüsitulemuste
+võrdlus
+
+„Tõe ja õiguse” I ja V osa tegevus toimub Vargamäel, Mäel ja Orul. V osas on
+võrreldes I osa tegelastega samaks jäänud Andres, Pearu, Indrek ja Maret, ent Maria
+Mandri bakalaureusetöö tabelites (2013: 58–59) kattuvad viienda osaga võrreldes ainult
+Andres, Pearu ja Indrek. Mandri bakalaureusetöös välja toodud tabelitest (2013: 58–59)
+selgub, et „Tõe ja õiguse” I osas on nii fonoloogilisi kui morfoloogilisi murdejooni
+tarvitusel olnud tunduvalt rohkem kui V osas. Põhjustena saab välja tuua näiteks selle,
+et V osas on üheks kesksemaks tegelaseks Indrek, kelle kõne on küllaltki
+kirjakeelelähedane, ning teistel tegelastel, kes kõnelevad rohkem murdes, on antud
+vähem sõna kui I osas. Aga põhjus võib olla ka see, et I osas on Andres ja Krõõt alles
+Vargamäele elama asunud, suheldakse tihedamalt naabritega, vaieldakse ja käiakse
+kohtus, mistõttu on erinevaid murdejooni tegelaskõnes rohkem leida. V osas on suhtlus
+vaid kahe pere ja nende tööliste vahel ning kahe vihamehe vahelisi vaidlusi pole.
+
+
+5.1. Fonoloogilised jooned
+
+Maria Mandri bakalaureusetöös olevast tabelist (2013: 58) on näha, et „Tõe ja õiguse” I
+osas on fonoloogilistest murdejoontest kõige enam esinenud pika a diftongistumist ua-
+ks ja pika ä diftongistumist ea-ks. Käesoleva töö tabelist 1 (vt ptk 3.1.1) on näha, et ka
+„Tõe ja õiguse” V osas on samasugune nähtus enim esindatud. Teistest enim esinenud
+murdejoontest kattuvad I ja V osa puhul veel muutused õõ > õe, ja > jä ning ära > ä᾽ä.
+Kui I osas on muutust õõ > õe kasutatud vähem kui V osas, siis ja > jä puhul on
+vastupidi. Ka nähtust, kus r kaob vokaalide vahelt (ära > ä᾽ä) on I osa tegelaskõnes
+kasutatud tunduvalt enam.
+
+
+Maria Mandri koostatud tabelist 1 (2013: 58) on näha, et „Tõe ja õiguse” I osas on
+lisaks eespool mainitud fonoloogilistele joontele rohkem esinenud veel muutust siia >
+seia; aed : aja, ajama > a᾽ama; aeg : a᾽a ning enam > änam. Neid viimaseid ei olnud
+romaanisarja V osas aga kordagi kasutatud. Nagu käesoleva töö tabelist 1 on näha, siis
+
+
+
+
+                                                                                       40
+saab V osa enim kasutatavatest fonoloogilistest joontest välja tuua veel muutuse ks > s
+ning assimileerumised sk > ss ja st > ss.
+
+
+Maria Mandri koostatud tabelist 1 (2013: 58) on näha, et fonoloogilisi murdejooni on
+enim Pearu kõnes. Seda saab täheldada ka „Tõe ja õiguse” V osa kohta tehtud tabelist 1,
+kust tuleb välja, et V osas on häälikulisi murdejooni küll vähem esinenud kui I osas,
+kuid siiski on Pearu teistest tegelastes rohkem fonoloogilisi erijooni kasutanud. Andrese
+kõnes on aga V osas tunduvalt vähem häälikulisi erijooni kui I osas. Küllap seetõttu, et
+Andres on saanud vähem sõna ning Pearuga silmast silma vestlusi ning vaidlusi V osas
+ei ole. Indreku puhul paistab silma, et lapsepõlves on ta kasutanud rohkem fonoloogilisi
+murdejooni kui V osas, kui ta vanema ja harituma inimesena koju naasis.
+
+
+
+5.2. Morfoloogilised jooned
+
+„Tõe ja õiguse” I (Mandri 2013: 59) ja V osa (vt ptk 3.1.2) morfoloogiliste erijoonte
+esinemise kohta tehtud tabelite võrdlusest selgub, et mõlemas osas on tegelaskõnes
+enim kasutatud nud-partitsiibi vokaalikaolist ja tunnusta varianti ning mõlemas osas on
+seda nähtus esinenud kõige rohkem Andrese kõnes.
+
+
+Nii I kui V osa peamiste morfoloogiliste erijoonte hulgas on veel a-line mitmuse
+partitiiv, mida „Tõe ja õiguse” I osas on siiski pisut rohkem. Ülejäänud Maria Mandri
+tabelis 2 (2013: 59) välja toodud põhilised murdejooned pole romaanisarja V osas kuigi
+palju esinenud, näiteks sõna põle kasutus, mida V osas leidub vaid kahel korral, veel ka
+lühem impersonaal tama-, dama-liitelistes verbides, samuti illatiivse vormi kiriku
+kasutus, aga ka ei asemel ep tarvitus, mida V osas esineb vaid kord autoritekstis.
+Käesoleva töö autori koostatud tabelist 2 on näha, et V osa enim esinenud
+morfoloogiliste erijoonte hulgas on lisaks eespool mainitule veel id-lise mitmuse
+partitiivi kasutus (nt krutskid). „Tõe ja õiguse” V osa ülejäänud murdejooni esines
+teoses vaid ühel-kahel korral, mistõttu puuduvad need tabelist 2.
+
+
+
+
+                                                                                      41
+Nii Mandri tabelist 2 kui ka käesoleva töö autori tabelist 2 on näha, et kõige rohkem
+morfoloogilisi erijooni esines Andrese kõnes. Selgelt tuleb välja, et kui Indrek kasutas
+lapsepõlves mitmeidki morfoloogilisi murdepärasusi, nt nud-partitsiibi vokaalikaolist ja
+tunnuseta varianti ja ka nt sõna põle, siis pärast linnas elamist ja hariduse omandamist
+puuduvad romaanisarja V osas tema kõnest seesugused jooned täielikult.
+
+
+
+5.3. Sõnavara
+
+Võrreldes „Tõe ja õiguse” V osa kohta saadud sõnavara tulemusi (vt ptk 3.1.3) I osa
+tulemustega (Mandri 2013: 31–32) on näha, et näiteks Andres kasutab I osas rohkem
+murdesõnu kui V osas. Kuid välja saab tuua, et Andrese kasutatav murdeline sõnavara
+jääb endiselt pigem Eesti läänealale, eelkõige lääne- ja keskmurde piirkonda. Mõlemas
+osas on Andres kasutanud ka sõnu, mis on omased ka Järva-Madise kihelkonnale.
+
+
+Nii I osa tulemustest (Mandri 2013: 32) kui ka V osa omast (vt ptk 3.1.3) selgub, et
+Pearu sõnavarra kuuluvad mitmed küllaltki laia levikuga murdesõnad. Mõlemas osas
+kasutab Pearu ka Järva-Madise kihelkonna keelekasutusele omaseid sõnu. Kuid
+erinevalt I osast, on Pearu V osas tarvitanud mõnevõrra rohkem Eesti lõunaosale
+omaseid sõnu.
+
+
+„Tõe ja õiguse” V osa tegelaskõne analüüsi põhjal võib väita, et Tammsaare on
+kasutanud enim kesk- ja läänemurdele omaseid erijooni, seda nii fonoloogiliste,
+morfoloogiliste kui sõnavaraliste tunnuste puhul. Sama selgub ka Mandri tööst (2013:
+36). Seega Tammsaare on „Tõe ja õiguse” V osa kirjutades säilitanud esimese osa
+tegelaste puhul neile omase kõnelemisviisi ning uute tegelaste puhul osutanud nende
+põhjaeestilisele päritolule.
+
+
+
+
+                                                                                     42
+5.4. Murdekasutuse eesmärgid
+
+„Tõe ja õiguse” I osa murdekasutuse eesmärkidest kirjutab Mandri oma bakalaureusetöö
+neljandas peatükis (2013: 38–48). Selgub, et murret on kasutatud peamiselt neljal
+eesmärgil: realistlikkuse loomiseks, koomilisuse esiletoomiseks, sotsiaalse staatuse ning
+hariduse markeerimiseks ning autobiograafilisuse edasi andmiseks. Ka „Tõe ja õiguse”
+V osas on sarnased murdekasutuse eesmärgid.
+
+
+Mõlemas osas saab peamise eesmärgina välja tuua realistlikkuse taotlust, mida on edasi
+antud eelkõige talurahvale omase keelekasutuse esitamisega, sh vanasõnade,
+fraseologismide, aga ka vulgarismide ja vandesõnade kasutamisega. Nii I osa (Mandri
+2013: 40) kui ka V osa (vt ptk 4.2) analüüsist tuleb välja, et tegelaskõnes leidub
+seesuguseid pejoratiive ja vulgarisme nagu raip, p…e, saadan. Mõlemas romaanisarja
+osas on usutavuse ja talurahvale iseloomuliku keelekasutuse toetamiseks kasutatud ka
+pühakirjaväljendeid, mida esineb Pearu kõnes.
+
+
+Mandri töös (2013: 41) on ühe murdekasutuse eesmärgina välja toodud koomilisuse
+taotlus, mida on loodud näiteks kohatu haritlaskeele kasutamisega, veidrate
+hüüdnimedega (nt „lambasihver”). „Tõe ja õiguse” V osa puhul ei tõuse koomilisus
+kuigipalju esile. Nagu peatükis 4.2.1 on kirjutatud, saab „Tõe ja õiguse” V osas välja
+tuua vaid ühe koomilise keelekasutuse, kui Andres üritab kasutada haritlaskeelele
+omaseid sõnu (nt kulduur).
+
+
+Nii „Tõe ja õiguse” I (Mandri 2013: 42–43) kui ka V osa analüüsist (vt ptk 4.2.1)
+selgub, et Tammsaare on murret kasutanud ühtlasi haritud ja harimata tegelaste
+vastandamiseks. Kui „Tõe ja õiguse” V osas on haritud tegelaste esindajaks vaid Indrek,
+siis romaanisarja I osas on neid rohkem, nt kirikuõpetaja, arst, köster, vallakirjutaja ning
+rätsep Taar, kelle keelekasutus on küllaltki kirjakeelne ning see joon haritud inimeste ja
+talurahva vahel on tugevamalt markeeritud.
+
+
+
+
+                                                                                         43
+Mandri (2013: 43–45) on oma analüüsis välja toonud ka autobiograafilisuse, mida I osas
+on rohkem kui V. I osas avaldub autobiograafilisus nii keskmurde kasutamises,
+tegelastes kui ka mingil määral sündmustes, näiteks Andrese ja Pearu vaenutsemises ja
+kohtuskäimistes on Tammsaare inspiratsiooni saanud oma isa ja tema naabrimehe
+vahelistest suhetest ja nende tegudest. Ka V osas on mingil määral autobiograafilisus
+säilinud – tegevus toimub endiselt Vargamäel, kus on tegelasteks Andres ja Pearu. Ka
+keelekasutuses on näha Tammsaare kodumurdele iseloomulikke jooni. Ent ka Karl
+Mihkla (1938: 43) on oma artiklis öelnud, et III-V osas on tõsielulisi jooni võimalik
+märgata vaid mõne üksiku tegelaskuju karakteristikas ning on lisanud, et viimase osa
+raamistik on küll tõsieluline, ent otsida ei tasuks siiski tegelikkusest pärinevaid motiive
+või tüüpe.
+
+
+
+
+                                                                                        44
+Kokkuvõte
+
+Käesolevas töös anti ülevaade seni uuritud teoreetilisest materjalist ning A. H.
+Tammsaare romaanisarja „Tõde ja õigus” V osas olevatest fonoloogilistest,
+morfoloogilistest ning sõnavaralistest murdejoontest. Välja on toodud ka murdejoonte
+peamised levikualad. Teooriaosas kirjeldati üldisi eesmärke, miks murret ilukirjanduses
+kasutatakse, näiteks realismi edasi andmiseks, aga ka selleks, et välja tuua tegelaste
+veidrusi, nende harimatust. Kuid murret kasutatakse sageli ka päritolu markeerimiseks.
+
+
+Ülevaade on antud ka eesti kirjanduse keelekasutusest ja selgub, et kuigi eesti
+kirjanduses on murret kasutatud juba ka 19. sajandil, on eesti kirjandusele siiski üldiselt
+omane kirjakeelekesksus. Alles 1990. aastatest alates on allkeeli rohkem väärtustama
+hakatud ning need on jõudnud üha enam ka kirjandusse. Lähemalt on kirjutatud ka
+viisidest, missuguste vahenditega on võimalik luua ilukirjanduses illusiooni tegelikust
+kõnest. Seda saab luua mitmesuguste suulise keele joonte toomisega kirjandusse.
+Kirjeldatud on ka sotsiolingvistilise varieeruvuse analüüsi olemust, mida ka käesoleva
+töö autor on silmas pidanud „Tõe ja õiguse” V osa murdejoonte analüüsimisel.
+
+
+Ülevaade on antud Tammsaare kodumurdest – keskmurdest – ning välja on toodud
+keskmurdele kõige iseloomulikumad tunnused. Olulisemateks erijoonteks on näiteks
+pikkade madalate ja keskkõrgete vokaalide diftongistumine (nt mua, võeras),
+assimilatsioonid (nt nällane), tugevaastmelised inessiivivormid (nt nurkkas) ja ka j-i
+kadu madalate vokaalide vahelt (nt aama).
+
+
+Kuna Tammsaare on pärit keskmurde tuumalalt, Järva-Madise kihelkonnast, võis
+eeldada, et sealset murrakut on ka teoses enim kasutatud. Analüüsist selgub, et
+tegelaskõnes on tõepoolest mitmeid nii Järva-Madise kui ka Suure-Jaani murrakule
+omaseid tunnuseid ja sõnu, ent palju oli ka läänemurdealale iseloomulikku. Kuid samuti
+on autor kasutanud mitmeid seesuguseid murdesõnu, mis on laialt levinud üle Eesti, aga
+ka selliseid, mida VMS-i järgi ei esine lääne- ega keskmurdealal, nt rinu. See võib
+
+
+
+
+                                                                                        45
+viidata Tammsaare kokkupuudet teiste Eesti piirkondadega ja heale eesti murrete
+tundmisele.
+
+
+Levinumad murdejooned „Tõe ja õiguse” V osas on pikkade madalate vokaalide
+diftongistumine, lühenenud nud-partitsiip, muutus ja > jä, aga ka id-lõpuline mitmuse
+partitiiv. Iseloomulik on mitmete tunnuste varieerumine, enim varieerub nud-partitsiibi
+kasutamine.
+
+
+Murdekasutuseesmärkidest tõuseb kõige enam esile realistlikkuse taotlus – Tammsaare
+annab edasi seda, kuidas talurahvas tol ajal kõneles. Seega kinnitust leidis Sumner Ivesi
+väide (vt ptk 1.1), et paljud kirjanikud kasutavad kirjanduslikku murret just
+realistlikkuse eesmärgil, soovides näidata, kuidas inimesed tegelikult kõnelevad.
+Romaanis on murret kasutatud ka mitmete vastanduste loomiseks. Sotsiaalse staatuse
+erinevus tuleb esile Indreku ja ülejäänud Vargamäe elanike võrdluses, kus Vargamäe
+rahvas kõneleb talurahvale omasel moel, kuid Indrek peaaegu kirjakeelsena. Mäe ja Oru
+rahva vastandus ilmneb kõige enam Andrese ja Pearu kõnet võrreldes – Pearu kõnes on
+pikad madalad ja keskkõrged vokaalid diftongistunud, Andrese omas aga mitte.
+
+
+„Tõe ja õiguse” I ja V osa võrdlusel selgub, et V osas on murdejoonte esinemist vähem
+kui I, kuid mõlema romaani tegelaskõnes on Tammsaare siiski kasutanud peamiselt
+kesk- ja läänemurdele omaseid jooni. Fonoloogilistest erijoontest on nii I kui V osas
+enim esinenud pikkade madalate ja keskkõrgete vokaalide diftongistumist, mida on
+kõige rohkem Pearu kõnes. Morfoloogilistest murdejoontest on mõlema romaani
+tegelaskõnes levinum joon nud-partitsiibi vokaalikaoline ja tunnuseta vorm – seda on
+nii romaanisarja I kui ka V osas enim Andrese kõnes. V osas on murdesõnade
+esinemine vähenenud võrreldes I osaga, kuid üldiselt osutavad need sõnad ikkagi lääne-
+ja keskmurdele. Mõlema romaanisarja puhul on Tammsaare Pearu kõnesse jätnud teda
+iseloomustavad pühakirjaväljendid (nt Essuke, hallelooja). Murdekasutuse peamine
+eesmärk nii I kui V osas on realistlikkuse edasiandmine ning selleks on Tammsaare
+kasutanud tegelaskõnes talurahvale iseloomulikku keelt. V osas on murdekasutuse
+eesmärkidena säilinud ka haritud ja harimata tegelaste vastandamine.
+
+
+                                                                                      46
+Kui seda teemat jätkata, oleks edaspidi võimalik uurida näiteks kogu romaanisarja
+läbiva tegelase – Indreku – tegelaskõnet. Praegu on tehtud uurimus nii „Tõe ja õiguse” I
+ja kui ka V osa tegelaskõne kohta, millest on selgunud, et „Tõe ja õiguse” I osas oli
+Indreku kõnes veel mitmeid morfoloogilisi ja fonoloogilisi murdepärasusi, kuid V osas
+on fonoloogilisi erijooni vähemaks jäänud ja morfoloogilisi erijooni ei esine üldse.
+Huvitav oleks jälgida Indreku keelekasutust ka teistes „Tõe ja õiguse” osades.
+
+
+
+
+                                                                                     47
+Kirjandus
+
+EMS 2004 = Eesti murrete sõnaraamat IV K-L 2004. Koost. Anu Haak, Evi Juhkam,
+Ann Kask, Mari Must, Salme Nigol, Ellen Niit, Vilja Oja, Eevi Ross, Aldi Sepp, Aili
+Univere, Helmi Viires. Tallinn: Eesti Keele Sihtasutus.
+
+EKSS 2009 = Eesti keele seletav sõnaraamat 2009. Toim. Margit Langemets, Mai
+Tiits, Tiia Valdre, Leidi Veskis, Ülle Viks, Piret Voll. Tallinn: Eesti Keele Sihtasutus;
+http://www.eki.ee/dict/ekss/.
+
+Hennoste, Tiit 2000a. Sissejuhatus suulisesse eesti keelde. – Oma Keel 1, 48–57.
+
+Hennoste, Tiit 2000b. Eesti kirjanduse keelest modernismi, postmodernismi ja
+postkolonialismi taustal. – Vikerkaar 7, 69–79.
+
+Hennoste, Tiit 2000c. Sissejuhatus suulisesse eesti keelde. – Akadeemia 7, 1551–1582.
+
+Hennoste, Tiit 2000d. Allkeeled. – Eesti keele allkeeled. Tartu ülikooli eesti keele
+õppetooli toimetised 16. Tartu: Tartu Ülikool, 9–56.
+
+Hennoste, Tiit 2002. Keelekasutuse uurimine. – Emakeele Seltsi aastaraamat 48. Toim.
+M. Erelt. 217–218.
+
+Hennoste, Tiit 2004. Kõneldud näidend ja suuline keel. – Teater. Muusika. Kino 5,
+aastakäik 23, 39–44.
+
+Hennoste, Tiit 2012. Elu ja kirjanduse piiril. Suhtlemine Oskar Lutsu „Kevades“ –
+Looming 11, 1621–1631.
+
+Ives, Sumner 1971. A Theory of Literary Dialect. – A various language. Eds. J. V.
+Williamson & V. M. Burke (Eds.). New York: Holt, Rinehart & Winston, pp. 146–154.
+
+Kadajane, Tiiu 1979. Kohamääruse esinemine A. H. Tammsaare "Tõe ja õiguse" V
+osas. Kursusetöö;
+http://www.murre.ut.ee/arhiiv/naita_pilt.php?materjal=kasikiri&materjal_id=S0374&sa
+ri=S&formaat=A4. Vaadatud 19.05.2015.
+
+
+
+                                                                                      48
+Kask, Aili 1959. A. H. Tammsaare romaani "Tõde ja õigus" I osa keelest. Diplomitöö.
+http://www.murre.ut.ee/arhiiv/naita_pilt.php?materjal=kasikiri&materjal_id=D0809&sa
+ri=D&formaat=A4. Vaadatud 17.04.2105.
+
+Keskimaa, Sari 2013. Murteenkäytön funktiot parisuhteen kuvauksessa Kalle Päätalon
+Iijoki-sarjassa. – Virittäjä nro 4, 494–500.
+
+Koivisto, Aino, Elise Nykänen 2013. Dialogi kaunokirjallisuudessa. Helsinki:
+Suomalaisen Kirjallisuuden Seura.
+
+Krapp, George Philip 1926. The Psychology of Dialect Writing.
+http://www.unz.org/Pub/Bookman-1926jul-00522. Vaadatud 10.03.2015.
+
+Mandri, Maria 2013. Murdekasutus A. H. Tammsaare romaanisarja “Tõde ja õigus” I
+osa tegelaskõnes. Bakalaureusetöö;
+http://dspace.utlib.ee/dspace/bitstream/handle/10062/30475/2013_Mandri_BA.pdf?sequ
+ence=1. Vaadatud 10.03.2015.
+
+Mihkla, Karl 1938. Tõsielulisi tüüpe ja motiive A. H. Tammsaare teoseis. – Eesti
+Kirjandus nr 1, 33–44.
+
+Must, Mari, Aili Univere 2002. Põhjaeesti keskmurre. Häälikulisi ja morfoloogilisi
+peajooni. Tallinn: Eesti Keele Instituut.
+
+Pajusalu jt = Pajusalu, Karl, Tiit Hennoste, Ellen Niit, Peeter Päll, Jüri Viikberg
+2009. Eesti murded ja kohanimed. Teine, täiendatud trükk. Toim. Tiit Hennoste.
+Tallinn: Eesti Keele Sihtasutus.
+
+Pirrus, Helle 1979. Koha- ja ajamäärus A. H. Tammsaare romaani "Tõde ja õigus" V
+osas. Kursusetöö;
+http://www.murre.ut.ee/arhiiv/naita_pilt.php?materjal=kasikiri&materjal_id=S0372&sa
+ri=S&formaat=A4&p=0. Vaadatud 19.05.2015.
+
+Prikk, Kalju 1952. Murdesõnad Anton Hansen-Tammsaare romaani Tõde ja õigus I
+köites. Seminaritöö;
+
+
+
+                                                                                   49
+http://www.murre.ut.ee/arhiiv/naita_pilt.php?materjal=kasikiri&materjal_id=L0046&sa
+ri=L&formaat=. Vaadatud 19.05.2015.
+
+Tammsaare, Anton Hansen 1983. Tõde ja õigus V. Kogutud teosed 10. köide. Tallinn:
+Eesti Raamat.
+
+Tammer, Harald 1978. A. H. Tammsaare juubeli eel. – Mälestusi A. H. Tammsaarest.
+Koost. E. Teder. Tallinn: Eesti Raamat, 18–26.
+
+Teder, Eerik 1977. Tammsaare radadel. Tallinn: Eesti Raamat.
+
+Tiittula,   Liisa,   Pirkko   Nuolijärvi   2013.   Puheen   illuusio   suomenkielisessä
+kaunokirjallisuudessa. Helsinki: Suomalaisen Kirjallisuuden Seura.
+
+Tillemann, Erna 1933. A.H. Tammsaare lauseehitus. Seminaritöö;
+http://www.murre.ut.ee/arhiiv/naita_pilt.php?materjal=kasikiri&materjal_id=S0054&sa
+ri=S&formaat=&p=0. Vaadatud 19.05.2015.
+
+Tillemann, Erna 1940. Mõni tähelepanek Tammsaare lause struktuurist ja
+sõnastusstiilist üldse. – Varamu 3, 312–324.
+
+Velsker, Mart 2012. Palanumäe lugu ja keele lugu. – Keel ja Kirjandus 4, 261–264.
+
+VMS = Väike murdesõnastik. Toim. Valdek Pall. http://www.eki.ee/dict/vms/.
+
+ÕS 2013 = Eesti õigekeelsussõnaraamat ÕS 2013. Toim. Maire Raadik. Koost. Tiiu
+Erelt, Tiina Leemets, Sirje Mäearu, Maire Raadik. Tallinn: Eesti Keele Sihtasutus.
+http://www.eki.ee/dict/qs/.
+
+
+
+
+                                                                                    50
+Dialectal use in the character speech of A. H. Tammsaare᾽s „Tõde
+ja õigus” part V. Summary
+
+The aim of this bachelor᾽s thesis is to research character speech in part V of Anton
+Hansen Tammsaare᾽s novel series „Tõde ja õigus” („Truth and Justice”) to analyse the
+kind of dialect occuring in the book, and to bring out the specific features of the dialect
+being used. Author of this thesis would also like to find answers to the following
+questions:
+
+
+1) What are the purposes of dialectal use?
+2) How does the dialectal use describe the character who is speaking in dialect?
+3) How are speech and its typical features represented in literature?
+
+
+In 2013 Maria Mandri defended her bachelor´s thesis with a theme „Dialectal use in the
+character speech of A. H. Tammsaare’s „Tõde ja õigus” part I”. Author of the current
+bachelor᾽s thesis also compares her results with the results of Maria Mandri᾽s.
+
+
+In this bachelor᾽s thesis are used many books and articles which talk about dialectal use
+and representation of speech in literature, also some articles about oral speech have been
+used. The first, theoretical chapter is mostly leaning on Sumner Ives᾽ research essay
+called „A Theory of Literary Dialect” (1971), but also on Liisa Tiittula᾽s and Pirkko
+Nuolijärvi᾽s book „Puheen illuusio suomenkielisessä kaunokirjallisuudessa” (2013) and
+Aino Koivisto᾽s and Elise Nykänen᾽s book „Dialogi kaunokirjallisuudessa” (2013). To
+describe the features of oral speech, mostly Tiit Hennoste᾽s articles are used. The
+analyse of dialectal features is based on Pajusalu᾽s et al book „Eesti murded ja
+kohanimed” (2009) and the book of Must and Univere „Põhjaeesti keskmurre.
+Häälikulisi ja morfoloogilisi peajooni” (2002).
+
+
+This bachelor᾽s thesis consists of five chapters. The first chapter describes the main
+goals of dialectal use in literature, for example to express realism or to bring out
+different strangenesses and uneducatedness of characters. Dialect is often used to show
+
+
+
+                                                                                        51
+the origin of characters. The first chapter also contains a short review about the use of
+language in Estonian literature, it appears that Estonian literature has been mostly
+centered on standard language. It wasn’t until the 1990’s that people have started to
+value sublanguages once again, and the sublanguages have now been used more and
+more in literature as well. Author has also taken a closer look at different tools that can
+be used to make it possible to create an illusion out of an actual speech. It can be created
+by bringing many different features of oral speech into the literature. Author of this
+thesis has also described what is the analysis of sociolinguistic variability that she has
+kept in mind while analysing the dialectal features used in „Tõde ja õigus” part V.
+
+
+The second chapter gives an overview of Tammsaare’s homeplace dialect – the central
+dialect (est keskmurre) and its most specific features. The most important differences
+are the diphthongization of long open and middle-high vocals (nt mua, võeras),
+assimilations (nt nällane), and also the dissapearance of letter j between the low vocals
+(nt aama).
+
+
+The third chapter focuses on the phonological, morphological and lexical features of the
+dialect that were used in „Tõde ja õigus” part V. The most used phonological feature
+was diphthongization of long open and close-middle vowels and the morphological
+feature was the nd-participle instead of nud-participle. Tammsaare used mostly words
+that were common in western (est läänemurre) or in central Estonian dialect. The
+variation of different dialectal features is also very typical to „Tõde ja õigus”, most
+commonly varies the use of nud-participle.
+
+
+The fourth chapter of this thesis finds that what stands out the most from the goals of
+using dialect is the aim to realism – to show how the peasantry spoke back then. Dialect
+is also used to create contrasts between characters and to bring out the differences
+between social statuses. The social status is brought out very nicely with the comparison
+of Indrek and the rest of the people living in Vargamäe. The people in Vargamäe speak
+like regular peasants, while Indrek is the only character who nearly always speaks
+accordingly to the rules of standard language. The difference between the residents of
+
+
+                                                                                         52
+Mäe and Oru appears most clearly when comparing the speech of Andres and Pearu – in
+Pearu᾽s speech the long open and close-middle vowels are diphthongizationed, but not
+in Andres᾽ speech.
+
+
+The fifth chapter compares parts I and V of „Tõde ja õigus”. There appears to be less
+dialectal features in part V compared to part I, however, Tammsaare has stayed mainly
+loyal to the specific features of western and central Estonian dialects in both novels. The
+most used phonological feature in both novels is diphthongization of long open and
+close-middle voweles, which appears mostly in the speech of Pearu. The most used
+morphological feature was the nd-participle instead of nud-participle, which appears
+mostly in the speech of Andres in both part I and V. The main purpose of using dialect
+in part I and part V is to emphasize realism and to do that, Tammsaare has used the
+language that is common to peasantry in the speech of the characters. In both parts the
+purpose to use the dialect in character speech is to bring out the differences between
+educated and uneducated characters.
+
+
+To continue this research it would be possible to observe the speech of one of the main
+characters, Indrek. At this point there are two researches with the focus on character
+speech in „Tõde ja õigus”. Both of these researches have found that Indrek used many
+more morphological and phonological features of dialect in part I, but part V has lost
+some of the phonological features while morphological ones have dissapeared
+completely. Therefore it would be interesting to study Indrek᾽s speech in other parts of
+„Tõde ja õigus” as well.
+
+
+
+
+                                                                                        53
+   Lihtlitsents lõputöö reprodutseerimiseks ja lõputöö üldsusele kättesaadavaks
+tegemiseks
+
+
+
+
+Mina, Janika Ojamäe (sünnikuupäev: 17.02.1993)
+
+
+1. annan Tartu Ülikoolile tasuta loa (lihtlitsentsi) enda loodud teose
+“Murdekasutus A. H. Tammsaare romaanisarja „Tõde ja õigus“ V osa tegelaskõnes“,
+mille juhendaja on lektor Eva Velsker,
+
+
+1.1.reprodutseerimiseks säilitamise ja üldsusele kättesaadavaks tegemise eesmärgil,
+    sealhulgas digitaalarhiivi DSpace-is lisamise eesmärgil kuni autoriõiguse kehtivuse
+    tähtaja lõppemiseni;
+1.2.üldsusele kättesaadavaks tegemiseks Tartu Ülikooli veebikeskkonna kaudu,
+    sealhulgas digitaalarhiivi DSpace´i kaudu kuni autoriõiguse kehtivuse tähtaja
+    lõppemiseni.
+
+2. olen teadlik, et punktis 1 nimetatud õigused jäävad alles ka autorile.
+
+3. kinnitan, et lihtlitsentsi andmisega ei rikuta teiste isikute intellektuaalomandi ega
+   isikuandmete kaitse seadusest tulenevaid õigusi.
+
+
+
+
+Tartus, 25.05.2015
+
+
+
+
+                                                                                     54
+
