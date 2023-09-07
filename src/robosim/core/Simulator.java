@@ -112,6 +112,10 @@ public class Simulator {
 	public ArrayList<Duple<SimObject,Polar>> allVisibleObjects() {
 		return map.visibleObjects(bot);
 	}
+
+	public int TotalObjects(){
+		return map.TotalObjects();
+	}
 	
 	public double findClosestEdge() {
 		double x = oneD(bot.getX(), Math.cos(bot.getHeading()), width);

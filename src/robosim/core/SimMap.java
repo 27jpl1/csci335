@@ -20,6 +20,9 @@ public class SimMap {
         }
     }
 
+    public int TotalObjects(){
+        return objects.size();
+    }
     public String toString() {
         StringBuilder sb = new StringBuilder();
         sb.append("SimMap");
